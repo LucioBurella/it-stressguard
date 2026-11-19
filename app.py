@@ -15,25 +15,20 @@ MODEL_PATH = BASE_DIR / "modelo_it_stressguard.joblib"
 DATA_PATH = BASE_DIR / "dataset_it_stressguard.csv"
 METRICS_PATH = BASE_DIR / "modelo_it_stressguard.metricas.json"
 
+RECOMENDACIONES = {
+    "Bajo": "Mantener hábitos saludables, pausas regulares y organización de tareas.",
+    "Medio": "Revisar prioridades, distribuir la carga y programar pausas durante la jornada.",
+    "Alto": "Conversar con el líder sobre la carga de trabajo y evaluar una redistribución de tareas.",
+    "Burnout Inminente": "Priorizar el descanso y solicitar acompañamiento del equipo responsable de bienestar.",
+}
+
 
 @st.cache_resource
 def load_artifact(path: Path):
-    return joblib.load(path)
-
-
-def extract_estimator(artifact):
-    if hasattr(artifact, "predict"):
-        return artifact
-    if isinstance(artifact, dict):
-        common_keys = ("model", "modelo", "pipeline", "estimator", "clf", "classifier")
-        for key in common_keys:
-            val = artifact.get(key)
-            if val is not None and hasattr(val, "predict"):
-                return val
-        for val in artifact.values():
-            if hasattr(val, "predict"):
-                return val
-    return None
+    if not path.exists():
+        return None
+    loaded = joblib.load(path)
+    return loaded if isinstance(loaded, dict) else {"modelo": loaded}
 
 
 @st.cache_data
@@ -50,139 +45,226 @@ def load_metrics(path: Path):
     return None
 
 
-def get_feature_names(estimator, artifact, df):
-    for obj in (estimator, artifact):
-        if hasattr(obj, "feature_names_in_"):
-            return list(obj.feature_names_in_)
-        if hasattr(obj, "named_steps"):
-            for step in obj.named_steps.values():
-                if hasattr(step, "feature_names_in_"):
-                    return list(step.feature_names_in_)
-        if isinstance(obj, dict):
-            for k in ("feature_names", "features", "columns", "input_cols"):
-                if isinstance(obj.get(k), (list, tuple)) and obj[k]:
-                    return list(obj[k])
-
-    if df is not None:
-        excluded = {"target", "label", "stress", "estres", "nivel_estres", "nivelestres"}
-        return [c for c in df.columns if c.lower() not in excluded]
-    return []
+def get_model(artifact: dict | None):
+    if not artifact:
+        return None
+    return artifact.get("modelo")
 
 
-st.title("IT-StressGuard")
-st.caption("Predicción de nivel de estrés laboral — Prototipo interactivo con Streamlit")
+def get_classes(model, artifact: dict | None) -> list[str]:
+    if model is not None and hasattr(model, "classes_"):
+        return [str(c) for c in model.classes_]
+    if model is not None and hasattr(model, "named_steps") and "clasificador" in model.named_steps:
+        clf = model.named_steps["clasificador"]
+        if hasattr(clf, "classes_"):
+            return [str(c) for c in clf.classes_]
+    if artifact and isinstance(artifact.get("clases"), (list, tuple)):
+        return [str(c) for c in artifact["clases"]]
+    return ["Bajo", "Medio", "Alto", "Burnout Inminente"]
 
-if not MODEL_PATH.exists():
-    st.error(f"No se encontró el modelo en `{MODEL_PATH}`.")
-    st.stop()
 
 artifact = load_artifact(MODEL_PATH)
-model = extract_estimator(artifact)
+model = get_model(artifact)
 df = load_dataset(DATA_PATH)
-metrics = load_metrics(METRICS_PATH)
+metrics_file = load_metrics(METRICS_PATH)
 
-if model is None:
-    st.error("El archivo `.joblib` es un diccionario pero no contiene un objeto con `.predict`.")
-    if isinstance(artifact, dict):
-        st.write("Claves encontradas en el `.joblib`:", list(artifact.keys()))
-    st.stop()
+# --- Barra lateral de navegación ---
+st.sidebar.title("IT-StressGuard")
+st.sidebar.caption("Prototipo académico de análisis y predicción de estrés laboral")
 
-if metrics:
-    with st.expander("Métricas del modelo", expanded=True):
-        cols = st.columns(len(metrics))
-        for idx, (k, v) in enumerate(metrics.items()):
+menu = st.sidebar.radio(
+    "Menú principal",
+    [
+        "Predicción",
+        "Exploración del Dataset",
+        "Modelo y Métricas",
+    ],
+)
+
+st.sidebar.divider()
+st.sidebar.info(
+    "Nota: Prototipo académico con datos sintéticos; no reemplaza una evaluación profesional."
+)
+
+# ==============================================================================
+# MENÚ 1: PREDICCIÓN
+# ==============================================================================
+if menu == "Predicción":
+    st.title("Predicción de Nivel de Estrés Laboral")
+    st.write("Completá los indicadores de la jornada para estimar el nivel de estrés y ver su distribución probabilística.")
+
+    if model is None:
+        st.error("No se encontró `modelo_it_stressguard.joblib` o no contiene la clave `'modelo'`.")
+        st.stop()
+
+    with st.form("form_prediccion"):
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            horas = st.slider("Horas trabajadas", min_value=0.0, max_value=24.0, value=8.0, step=0.5)
+        with col2:
+            tickets = st.number_input("Tickets resueltos", min_value=0, max_value=500, value=6, step=1)
+        with col3:
+            fatiga = st.slider("Fatiga percibida (1 a 10)", min_value=1, max_value=10, value=5, step=1)
+
+        col4, col5 = st.columns([1, 2])
+        with col4:
+            rol = st.selectbox("Rol", options=["Dev", "DevOps", "QA", "Team Lead", "HR"], index=0)
+        with col5:
+            comentario = st.text_input(
+                "Comentario del día (opcional)",
+                placeholder="Ej: Día con varios despliegues y revisiones de código...",
+            )
+
+        submitted = st.form_submit_button("Analizar y Predecir", type="primary", use_container_width=True)
+
+    if submitted:
+        entrada = pd.DataFrame(
+            [
+                {
+                    "horasTrabajadas": horas,
+                    "ticketsResueltos": tickets,
+                    "nivelFatiga": fatiga,
+                    "comentarioDia": comentario,
+                    "rol": rol,
+                }
+            ]
+        )
+
+        try:
+            nivel = str(model.predict(entrada)[0])
+            probabilidades = model.predict_proba(entrada)[0] if hasattr(model, "predict_proba") else None
+        except Exception as exc:
+            st.error(f"Error al ejecutar la predicción: {exc}")
+            st.stop()
+
+        st.divider()
+        st.subheader("Resultado del análisis")
+
+        m1, m2, m3 = st.columns(3)
+        m1.metric("Nivel de estrés estimado", nivel)
+        if probabilidades is not None:
+            prob_max = float(max(probabilidades))
+            m2.metric("Confianza máxima", f"{prob_max:.1%}")
+        m3.metric("Carga declarada", f"{horas:.1f}h / {tickets} tickets")
+
+        st.success(f"**Recomendación:** {RECOMENDACIONES.get(nivel, 'Revisar el resultado con un profesional.')}")
+
+        # Resumen de factores clave de la entrada
+        with st.expander("Detalle de variables enviadas", expanded=False):
+            st.dataframe(entrada, use_container_width=True, hide_index=True)
+
+        if probabilidades is not None:
+            clases = get_classes(model, artifact)
+            if len(clases) != len(probabilidades):
+                clases = [f"Clase {i}" for i in range(len(probabilidades))]
+
+            prob_df = (
+                pd.DataFrame({"Clase": clases, "Probabilidad": [float(p) for p in probabilidades]})
+                .sort_values("Probabilidad", ascending=False)
+                .reset_index(drop=True)
+            )
+
+            g1, g2 = st.columns([3, 2])
+            with g1:
+                st.markdown("**Probabilidad por nivel de estrés**")
+                st.bar_chart(prob_df.set_index("Clase")["Probabilidad"])
+            with g2:
+                st.markdown("**Tabla de probabilidades**")
+                st.dataframe(
+                    prob_df.style.format({"Probabilidad": "{:.2%}"}),
+                    use_container_width=True,
+                    hide_index=True,
+                )
+
+# ==============================================================================
+# MENÚ 2: EXPLORACIÓN DEL DATASET
+# ==============================================================================
+elif menu == "Exploración del Dataset":
+    st.title("Exploración del Dataset")
+
+    if df is None or df.empty:
+        st.warning("No se encontró `dataset_it_stressguard.csv` o está vacío.")
+        st.stop()
+
+    k1, k2, k3 = st.columns(3)
+    k1.metric("Total de registros", len(df))
+    k2.metric("Columnas", len(df.columns))
+    k3.metric("Valores nulos", int(df.isna().sum().sum()))
+
+    st.divider()
+
+    # Detectar columna objetivo si existe
+    target_candidates = [c for c in df.columns if c.lower() in {"nivelestres", "nivel_estres", "estres", "stress", "target"}]
+    target_col = target_candidates[0] if target_candidates else None
+
+    c1, c2 = st.columns(2)
+
+    with c1:
+        if target_col:
+            st.subheader(f"Distribución de `{target_col}`")
+            counts = df[target_col].astype(str).value_counts()
+            st.bar_chart(counts)
+        else:
+            st.subheader("Columnas disponibles")
+            st.write(list(df.columns))
+
+    with c2:
+        numeric_cols = df.select_dtypes(include="number").columns.tolist()
+        if numeric_cols:
+            selected_num = st.selectbox("Variable numérica para analizar", options=numeric_cols)
+            st.subheader(f"Distribución de `{selected_num}`")
+            st.line_chart(df[selected_num].dropna().reset_index(drop=True))
+
+    st.divider()
+    st.subheader("Vista previa de datos")
+    st.dataframe(df.head(50), use_container_width=True)
+
+# ==============================================================================
+# MENÚ 3: MODELO Y MÉTRICAS
+# ==============================================================================
+elif menu == "Modelo y Métricas":
+    st.title("Modelo y Métricas")
+
+    version = artifact.get("version", "desconocida") if artifact else "no disponible"
+    algoritmo = artifact.get("algoritmo", "RandomForestClassifier + TF-IDF") if artifact else "no disponible"
+    clases = get_classes(model, artifact)
+
+    i1, i2, i3 = st.columns(3)
+    i1.metric("Versión del artefacto", str(version))
+    i2.metric("Algoritmo", str(algoritmo))
+    i3.metric("Cantidad de clases", len(clases))
+
+    st.markdown("**Clases detectadas:** " + ", ".join(f"`{c}`" for c in clases))
+
+    st.divider()
+
+    # Unificar métricas desde archivo .metricas.json o desde el diccionario del modelo
+    metricas_dict = {}
+    if isinstance(metrics_file, dict):
+        metricas_dict.update(metrics_file)
+    if artifact and isinstance(artifact.get("metricas_prueba"), dict):
+        for k, v in artifact["metricas_prueba"].items():
+            metricas_dict.setdefault(k, v)
+
+    if metricas_dict:
+        st.subheader("Indicadores de rendimiento")
+        cols = st.columns(min(len(metricas_dict), 4))
+        for idx, (k, v) in enumerate(metricas_dict.items()):
             label = k.replace("_", " ").capitalize()
             val_fmt = f"{v:.4f}" if isinstance(v, float) else str(v)
-            cols[idx].metric(label=label, value=val_fmt)
+            cols[idx % len(cols)].metric(label=label, value=val_fmt)
 
-st.divider()
+        # Gráfico con métricas numéricas (excluyendo conteos grandes si distorsionan la escala)
+        rate_metrics = {
+            k: float(v)
+            for k, v in metricas_dict.items()
+            if isinstance(v, (int, float)) and not isinstance(v, bool) and 0.0 <= float(v) <= 1.0
+        }
+        if rate_metrics:
+            st.markdown("**Métricas en escala 0–1**")
+            st.bar_chart(pd.Series(rate_metrics, name="Valor"))
 
-feature_names = get_feature_names(model, artifact, df)
-if not feature_names:
-    st.warning("No se detectaron columnas de entrada.")
-    st.stop()
-
-if "sample_row" not in st.session_state:
-    st.session_state.sample_row = None
-
-top_bar_left, top_bar_right = st.columns([3, 1])
-with top_bar_left:
-    st.subheader("Datos de entrada")
-with top_bar_right:
-    if df is not None and not df.empty:
-        if st.button("Cargar ejemplo del CSV", use_container_width=True):
-            st.session_state.sample_row = df.sample(1).iloc[0].to_dict()
-            st.rerun()
-
-inputs = {}
-with st.form("prediction_form"):
-    grid_cols = st.columns(2)
-    sample = st.session_state.sample_row or {}
-
-    for i, col in enumerate(feature_names):
-        target_col = grid_cols[i % 2]
-        with target_col:
-            if df is not None and col in df.columns:
-                serie = df[col].dropna()
-                sample_val = sample.get(col)
-
-                if pd.api.types.is_numeric_dtype(serie):
-                    min_val = float(serie.min()) if not serie.empty else 0.0
-                    max_val = float(serie.max()) if not serie.empty else 100.0
-                    default_num = (
-                        float(sample_val)
-                        if sample_val is not None and pd.notna(sample_val)
-                        else (float(serie.median()) if not serie.empty else 0.0)
-                    )
-                    if pd.api.types.is_integer_dtype(serie):
-                        inputs[col] = st.number_input(
-                            col,
-                            min_value=int(min_val),
-                            max_value=int(max_val),
-                            value=int(round(default_num)),
-                            step=1,
-                        )
-                    else:
-                        inputs[col] = st.number_input(
-                            col,
-                            min_value=min_val,
-                            max_value=max_val,
-                            value=default_num,
-                        )
-                else:
-                    opciones = sorted(serie.astype(str).unique().tolist())
-                    if opciones:
-                        default_idx = 0
-                        if sample_val is not None and str(sample_val) in opciones:
-                            default_idx = opciones.index(str(sample_val))
-                        inputs[col] = st.selectbox(col, options=opciones, index=default_idx)
-                    else:
-                        inputs[col] = st.text_input(
-                            col, value="" if sample_val is None else str(sample_val)
-                        )
-            else:
-                default_val = float(sample.get(col, 0.0) or 0.0)
-                inputs[col] = st.number_input(col, value=default_val)
-
-    submitted = st.form_submit_button("Predecir nivel de estrés", type="primary", use_container_width=True)
-
-if submitted:
-    X_input = pd.DataFrame([inputs])
-    try:
-        pred = model.predict(X_input)[0]
-        st.divider()
-        st.subheader("Resultado")
-        st.success(f"Nivel predicho: **{pred}**")
-
-        if hasattr(model, "predict_proba"):
-            proba = model.predict_proba(X_input)[0]
-            classes = getattr(model, "classes_", [f"Clase {i}" for i in range(len(proba))])
-            proba_df = (
-                pd.DataFrame({"Clase": classes, "Probabilidad": proba})
-                .sort_values("Probabilidad", ascending=False)
-                .set_index("Clase")
-            )
-            st.bar_chart(proba_df)
-            st.dataframe(proba_df.style.format({"Probabilidad": "{:.2%}"}), use_container_width=True)
-    except Exception as exc:
-        st.error(f"Error al predecir: {exc}")
+        with st.expander("Ver JSON completo de métricas"):
+            st.json(metricas_dict)
+    else:
+        st.info("No se encontraron métricas guardadas en `modelo_it_stressguard.metricas.json` ni en el `.joblib`.")
