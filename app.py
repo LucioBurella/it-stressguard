@@ -181,23 +181,24 @@ if menu == "Predicción y Diagnóstico":
         with c4:
             rol = st.selectbox("Rol en el equipo", options=roles_opts, index=rol_idx)
         with c5:
+            comentario_inicial = preset.get("comentario")
             comentario = st.text_input(
                 "Comentario del día",
-                value=str(preset.get("comentario", "")),
-                max_length=500,
+                value="" if comentario_inicial is None else str(comentario_inicial),
                 placeholder="Describí brevemente cómo estuvo la jornada, bloqueos, guardias o ritmo de trabajo...",
             )
 
         submitted = st.form_submit_button("Ejecutar predicción", type="primary", use_container_width=True)
 
     if submitted:
+        comentario_limpio = str(comentario or "")[:500]
         entrada = pd.DataFrame(
             [
                 {
                     "horasTrabajadas": horas,
                     "ticketsResueltos": tickets,
                     "nivelFatiga": fatiga,
-                    "comentarioDia": comentario,
+                    "comentarioDia": comentario_limpio,
                     "rol": rol,
                 }
             ]
@@ -230,7 +231,7 @@ if menu == "Predicción y Diagnóstico":
             alertas.append("Jornada extensa (>= 10 horas).")
         if fatiga >= 8:
             alertas.append("Nivel de fatiga elevado (>= 8/10).")
-        if not comentario.strip():
+        if not comentario_limpio.strip():
             alertas.append("No se ingresó comentario textual (el componente TF-IDF recibe texto vacío).")
         if alertas:
             st.warning("**Observaciones del registro:** " + " ".join(alertas))
