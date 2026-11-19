@@ -1,0 +1,6 @@
+{
+  "accuracy": 1.0,
+  "f1_macro": 1.0,
+  "cantidad_train": 960,
+  "cantidad_test": 240
+}

@@ -1,0 +1,1201 @@
+﻿idMetrica,idUsuario,fecha,rol,departamento,horasTrabajadas,ticketsResueltos,nivelFatiga,comentarioDia,sentimientoScore,nivelEstres,diasCriticosConsecutivos,alertaTeamLead
+MET-00001,USR-001,2026-09-01,Dev,Desarrollo,8.8,14,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.561,Medio,0,False
+MET-00031,USR-001,2026-09-02,Dev,Desarrollo,7.7,14,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.368,Bajo,0,False
+MET-00061,USR-001,2026-09-03,Dev,Desarrollo,10.9,11,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.62,Burnout Inminente,1,False
+MET-00091,USR-001,2026-09-04,Dev,Desarrollo,7.5,10,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.692,Bajo,0,False
+MET-00121,USR-001,2026-09-05,Dev,Desarrollo,7.1,5,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.657,Bajo,0,False
+MET-00151,USR-001,2026-09-06,Dev,Desarrollo,12.5,13,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.547,Burnout Inminente,1,False
+MET-00181,USR-001,2026-09-07,Dev,Desarrollo,8.6,6,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.366,Medio,0,False
+MET-00211,USR-001,2026-09-08,Dev,Desarrollo,7.2,7,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.689,Bajo,0,False
+MET-00241,USR-001,2026-09-09,Dev,Desarrollo,8.9,12,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.357,Medio,0,False
+MET-00271,USR-001,2026-09-10,Dev,Desarrollo,8.1,10,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.699,Medio,0,False
+MET-00301,USR-001,2026-09-11,Dev,Desarrollo,7.3,10,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.718,Bajo,0,False
+MET-00331,USR-001,2026-09-12,Dev,Desarrollo,8.4,11,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.302,Medio,0,False
+MET-00361,USR-001,2026-09-13,Dev,Desarrollo,12.4,9,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.945,Burnout Inminente,1,False
+MET-00391,USR-001,2026-09-14,Dev,Desarrollo,10.0,1,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.226,Alto,2,False
+MET-00421,USR-001,2026-09-15,Dev,Desarrollo,10.4,8,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.349,Alto,3,True
+MET-00451,USR-001,2026-09-16,Dev,Desarrollo,13.6,4,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.977,Burnout Inminente,4,True
+MET-00481,USR-001,2026-09-17,Dev,Desarrollo,9.7,2,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.714,Burnout Inminente,5,True
+MET-00511,USR-001,2026-09-18,Dev,Desarrollo,6.7,8,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.647,Bajo,0,False
+MET-00541,USR-001,2026-09-19,Dev,Desarrollo,7.6,13,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.465,Medio,0,False
+MET-00571,USR-001,2026-09-20,Dev,Desarrollo,10.0,15,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.897,Burnout Inminente,1,False
+MET-00601,USR-001,2026-09-21,Dev,Desarrollo,9.3,10,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.48,Alto,2,False
+MET-00631,USR-001,2026-09-22,Dev,Desarrollo,11.9,10,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.797,Burnout Inminente,3,True
+MET-00661,USR-001,2026-09-23,Dev,Desarrollo,13.5,3,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.848,Burnout Inminente,4,True
+MET-00691,USR-001,2026-09-24,Dev,Desarrollo,7.6,13,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.506,Bajo,0,False
+MET-00721,USR-001,2026-09-25,Dev,Desarrollo,6.7,9,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.294,Medio,0,False
+MET-00751,USR-001,2026-09-26,Dev,Desarrollo,7.0,9,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.652,Medio,0,False
+MET-00781,USR-001,2026-09-27,Dev,Desarrollo,11.2,11,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.804,Burnout Inminente,1,False
+MET-00811,USR-001,2026-09-28,Dev,Desarrollo,10.0,5,10,La carga de trabajo fue elevada y terminé bastante agotado.,-0.187,Alto,2,False
+MET-00841,USR-001,2026-09-29,Dev,Desarrollo,10.5,0,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.953,Burnout Inminente,3,True
+MET-00871,USR-001,2026-09-30,Dev,Desarrollo,7.0,9,1,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.608,Bajo,0,False
+MET-00901,USR-001,2026-10-01,Dev,Desarrollo,9.2,23,7,Se acumularon tickets y tuve que extender mi jornada.,-0.42,Alto,1,False
+MET-00931,USR-001,2026-10-02,Dev,Desarrollo,7.8,5,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.298,Bajo,0,False
+MET-00961,USR-001,2026-10-03,Dev,Desarrollo,6.8,13,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.373,Bajo,0,False
+MET-00991,USR-001,2026-10-04,Dev,Desarrollo,11.0,8,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.635,Burnout Inminente,1,False
+MET-01021,USR-001,2026-10-05,Dev,Desarrollo,7.6,15,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.276,Bajo,0,False
+MET-01051,USR-001,2026-10-06,Dev,Desarrollo,7.4,7,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.445,Bajo,0,False
+MET-01081,USR-001,2026-10-07,Dev,Desarrollo,7.2,14,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.426,Bajo,0,False
+MET-01111,USR-001,2026-10-08,Dev,Desarrollo,8.7,16,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.27,Alto,1,False
+MET-01141,USR-001,2026-10-09,Dev,Desarrollo,10.6,3,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.717,Burnout Inminente,2,False
+MET-01171,USR-001,2026-10-10,Dev,Desarrollo,8.2,17,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.005,Medio,0,False
+MET-00002,USR-002,2026-09-01,QA,Calidad,7.0,15,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.758,Bajo,0,False
+MET-00032,USR-002,2026-09-02,QA,Calidad,10.6,8,9,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.545,Alto,1,False
+MET-00062,USR-002,2026-09-03,QA,Calidad,8.9,11,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.564,Alto,2,False
+MET-00092,USR-002,2026-09-04,QA,Calidad,8.9,12,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.183,Medio,0,False
+MET-00122,USR-002,2026-09-05,QA,Calidad,10.9,4,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.912,Burnout Inminente,1,False
+MET-00152,USR-002,2026-09-06,QA,Calidad,8.7,8,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.131,Medio,0,False
+MET-00182,USR-002,2026-09-07,QA,Calidad,10.2,13,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.344,Alto,1,False
+MET-00212,USR-002,2026-09-08,QA,Calidad,10.2,14,8,La carga de trabajo fue elevada y terminé bastante agotado.,0.12,Alto,2,False
+MET-00242,USR-002,2026-09-09,QA,Calidad,8.3,8,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.63,Medio,0,False
+MET-00272,USR-002,2026-09-10,QA,Calidad,7.4,13,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.663,Bajo,0,False
+MET-00302,USR-002,2026-09-11,QA,Calidad,8.4,8,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.014,Medio,0,False
+MET-00332,USR-002,2026-09-12,QA,Calidad,10.1,8,6,Hubo incidentes en producción y mucha presión por las entregas.,-0.452,Alto,1,False
+MET-00362,USR-002,2026-09-13,QA,Calidad,10.4,10,7,Se acumularon tickets y tuve que extender mi jornada.,-0.291,Alto,2,False
+MET-00392,USR-002,2026-09-14,QA,Calidad,7.7,10,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.713,Bajo,0,False
+MET-00422,USR-002,2026-09-15,QA,Calidad,7.5,9,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.23,Medio,0,False
+MET-00452,USR-002,2026-09-16,QA,Calidad,8.3,14,6,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.308,Alto,1,False
+MET-00482,USR-002,2026-09-17,QA,Calidad,8.3,2,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.569,Bajo,0,False
+MET-00512,USR-002,2026-09-18,QA,Calidad,7.8,11,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.178,Medio,0,False
+MET-00542,USR-002,2026-09-19,QA,Calidad,8.2,8,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.394,Bajo,0,False
+MET-00572,USR-002,2026-09-20,QA,Calidad,6.9,12,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.575,Bajo,0,False
+MET-00602,USR-002,2026-09-21,QA,Calidad,13.4,0,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.626,Burnout Inminente,1,False
+MET-00632,USR-002,2026-09-22,QA,Calidad,10.9,15,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.286,Alto,2,False
+MET-00662,USR-002,2026-09-23,QA,Calidad,10.6,6,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.961,Burnout Inminente,3,True
+MET-00692,USR-002,2026-09-24,QA,Calidad,8.6,11,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.294,Medio,0,False
+MET-00722,USR-002,2026-09-25,QA,Calidad,6.5,9,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.527,Medio,0,False
+MET-00752,USR-002,2026-09-26,QA,Calidad,8.8,13,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.207,Medio,0,False
+MET-00782,USR-002,2026-09-27,QA,Calidad,11.6,0,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.552,Burnout Inminente,1,False
+MET-00812,USR-002,2026-09-28,QA,Calidad,7.1,11,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.488,Bajo,0,False
+MET-00842,USR-002,2026-09-29,QA,Calidad,9.3,10,9,La carga de trabajo fue elevada y terminé bastante agotado.,-0.381,Alto,1,False
+MET-00872,USR-002,2026-09-30,QA,Calidad,6.5,15,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.74,Bajo,0,False
+MET-00902,USR-002,2026-10-01,QA,Calidad,7.7,8,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.815,Bajo,0,False
+MET-00932,USR-002,2026-10-02,QA,Calidad,6.8,11,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.813,Bajo,0,False
+MET-00962,USR-002,2026-10-03,QA,Calidad,11.5,18,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.522,Alto,1,False
+MET-00992,USR-002,2026-10-04,QA,Calidad,6.8,11,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.28,Bajo,0,False
+MET-01022,USR-002,2026-10-05,QA,Calidad,8.1,13,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.634,Bajo,0,False
+MET-01052,USR-002,2026-10-06,QA,Calidad,7.3,11,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.106,Bajo,0,False
+MET-01082,USR-002,2026-10-07,QA,Calidad,9.3,10,9,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.222,Alto,1,False
+MET-01112,USR-002,2026-10-08,QA,Calidad,5.9,7,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.638,Bajo,0,False
+MET-01142,USR-002,2026-10-09,QA,Calidad,9.0,14,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.127,Medio,0,False
+MET-01172,USR-002,2026-10-10,QA,Calidad,9.0,9,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.629,Alto,1,False
+MET-00003,USR-003,2026-09-01,DevOps,DevOps,6.9,9,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.536,Bajo,0,False
+MET-00033,USR-003,2026-09-02,DevOps,DevOps,7.3,5,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.632,Bajo,0,False
+MET-00063,USR-003,2026-09-03,DevOps,DevOps,11.7,7,8,Se acumularon tickets y tuve que extender mi jornada.,-0.218,Alto,1,False
+MET-00093,USR-003,2026-09-04,DevOps,DevOps,7.3,10,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.71,Bajo,0,False
+MET-00123,USR-003,2026-09-05,DevOps,DevOps,8.3,10,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.886,Bajo,0,False
+MET-00153,USR-003,2026-09-06,DevOps,DevOps,7.1,14,7,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.166,Medio,0,False
+MET-00183,USR-003,2026-09-07,DevOps,DevOps,6.8,11,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.444,Bajo,0,False
+MET-00213,USR-003,2026-09-08,DevOps,DevOps,7.9,9,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.041,Medio,0,False
+MET-00243,USR-003,2026-09-09,DevOps,DevOps,11.7,9,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.852,Burnout Inminente,1,False
+MET-00273,USR-003,2026-09-10,DevOps,DevOps,7.0,10,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.613,Bajo,0,False
+MET-00303,USR-003,2026-09-11,DevOps,DevOps,6.3,6,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.495,Bajo,0,False
+MET-00333,USR-003,2026-09-12,DevOps,DevOps,8.9,21,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.152,Alto,1,False
+MET-00363,USR-003,2026-09-13,DevOps,DevOps,12.9,10,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.495,Burnout Inminente,2,False
+MET-00393,USR-003,2026-09-14,DevOps,DevOps,7.2,14,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.134,Medio,0,False
+MET-00423,USR-003,2026-09-15,DevOps,DevOps,10.3,16,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.524,Alto,1,False
+MET-00453,USR-003,2026-09-16,DevOps,DevOps,7.2,9,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.217,Medio,0,False
+MET-00483,USR-003,2026-09-17,DevOps,DevOps,9.2,6,7,Hubo cambios de prioridad durante el día y costó concentrarme.,0.304,Medio,0,False
+MET-00513,USR-003,2026-09-18,DevOps,DevOps,11.4,13,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.88,Burnout Inminente,1,False
+MET-00543,USR-003,2026-09-19,DevOps,DevOps,8.2,15,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.161,Medio,0,False
+MET-00573,USR-003,2026-09-20,DevOps,DevOps,8.0,18,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.425,Medio,0,False
+MET-00603,USR-003,2026-09-21,DevOps,DevOps,12.5,13,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.519,Burnout Inminente,1,False
+MET-00633,USR-003,2026-09-22,DevOps,DevOps,12.0,15,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.624,Alto,2,False
+MET-00663,USR-003,2026-09-23,DevOps,DevOps,11.7,3,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.522,Burnout Inminente,3,True
+MET-00693,USR-003,2026-09-24,DevOps,DevOps,9.5,12,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.584,Alto,4,True
+MET-00723,USR-003,2026-09-25,DevOps,DevOps,8.1,12,6,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.353,Medio,0,False
+MET-00753,USR-003,2026-09-26,DevOps,DevOps,12.8,7,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.551,Burnout Inminente,1,False
+MET-00783,USR-003,2026-09-27,DevOps,DevOps,7.2,10,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.613,Bajo,0,False
+MET-00813,USR-003,2026-09-28,DevOps,DevOps,7.3,12,1,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.674,Bajo,0,False
+MET-00843,USR-003,2026-09-29,DevOps,DevOps,8.7,11,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.119,Medio,0,False
+MET-00873,USR-003,2026-09-30,DevOps,DevOps,10.8,6,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.782,Burnout Inminente,1,False
+MET-00903,USR-003,2026-10-01,DevOps,DevOps,8.7,13,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.395,Alto,2,False
+MET-00933,USR-003,2026-10-02,DevOps,DevOps,7.5,14,3,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.027,Medio,0,False
+MET-00963,USR-003,2026-10-03,DevOps,DevOps,8.3,9,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.303,Medio,0,False
+MET-00993,USR-003,2026-10-04,DevOps,DevOps,9.9,9,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.096,Medio,0,False
+MET-01023,USR-003,2026-10-05,DevOps,DevOps,12.8,1,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.537,Burnout Inminente,1,False
+MET-01053,USR-003,2026-10-06,DevOps,DevOps,10.8,6,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.831,Burnout Inminente,2,False
+MET-01083,USR-003,2026-10-07,DevOps,DevOps,8.3,12,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.412,Bajo,0,False
+MET-01113,USR-003,2026-10-08,DevOps,DevOps,7.5,9,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.53,Bajo,0,False
+MET-01143,USR-003,2026-10-09,DevOps,DevOps,13.2,4,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.795,Burnout Inminente,1,False
+MET-01173,USR-003,2026-10-10,DevOps,DevOps,10.3,8,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.714,Burnout Inminente,2,False
+MET-00004,USR-004,2026-09-01,Dev,Desarrollo,11.9,0,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.834,Burnout Inminente,1,False
+MET-00034,USR-004,2026-09-02,Dev,Desarrollo,10.6,2,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.518,Burnout Inminente,2,False
+MET-00064,USR-004,2026-09-03,Dev,Desarrollo,13.8,0,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.823,Burnout Inminente,3,True
+MET-00094,USR-004,2026-09-04,Dev,Desarrollo,8.1,16,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.482,Bajo,0,False
+MET-00124,USR-004,2026-09-05,Dev,Desarrollo,10.1,21,7,Se acumularon tickets y tuve que extender mi jornada.,-0.301,Alto,1,False
+MET-00154,USR-004,2026-09-06,Dev,Desarrollo,10.3,25,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.392,Alto,2,False
+MET-00184,USR-004,2026-09-07,Dev,Desarrollo,10.4,18,6,Hubo incidentes en producción y mucha presión por las entregas.,-0.316,Alto,3,True
+MET-00214,USR-004,2026-09-08,Dev,Desarrollo,6.8,14,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.517,Bajo,0,False
+MET-00244,USR-004,2026-09-09,Dev,Desarrollo,7.7,9,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.28,Bajo,0,False
+MET-00274,USR-004,2026-09-10,Dev,Desarrollo,10.7,17,8,Se acumularon tickets y tuve que extender mi jornada.,-0.438,Alto,1,False
+MET-00304,USR-004,2026-09-11,Dev,Desarrollo,9.3,12,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.145,Alto,2,False
+MET-00334,USR-004,2026-09-12,Dev,Desarrollo,8.2,12,7,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.096,Medio,0,False
+MET-00364,USR-004,2026-09-13,Dev,Desarrollo,8.6,13,7,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.26,Medio,0,False
+MET-00394,USR-004,2026-09-14,Dev,Desarrollo,7.4,11,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.614,Bajo,0,False
+MET-00424,USR-004,2026-09-15,Dev,Desarrollo,9.1,12,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.665,Medio,0,False
+MET-00454,USR-004,2026-09-16,Dev,Desarrollo,11.5,12,8,Se acumularon tickets y tuve que extender mi jornada.,-0.616,Alto,1,False
+MET-00484,USR-004,2026-09-17,Dev,Desarrollo,11.2,24,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.975,Burnout Inminente,2,False
+MET-00514,USR-004,2026-09-18,Dev,Desarrollo,7.9,6,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.025,Medio,0,False
+MET-00544,USR-004,2026-09-19,Dev,Desarrollo,11.4,3,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.437,Burnout Inminente,1,False
+MET-00574,USR-004,2026-09-20,Dev,Desarrollo,11.8,3,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.672,Burnout Inminente,2,False
+MET-00604,USR-004,2026-09-21,Dev,Desarrollo,7.6,15,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.248,Medio,0,False
+MET-00634,USR-004,2026-09-22,Dev,Desarrollo,10.5,11,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.485,Alto,1,False
+MET-00664,USR-004,2026-09-23,Dev,Desarrollo,12.2,4,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.622,Burnout Inminente,2,False
+MET-00694,USR-004,2026-09-24,Dev,Desarrollo,11.5,5,8,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.793,Burnout Inminente,3,True
+MET-00724,USR-004,2026-09-25,Dev,Desarrollo,9.0,13,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.75,Medio,0,False
+MET-00754,USR-004,2026-09-26,Dev,Desarrollo,8.8,10,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.192,Alto,1,False
+MET-00784,USR-004,2026-09-27,Dev,Desarrollo,7.1,11,7,Hubo cambios de prioridad durante el día y costó concentrarme.,0.291,Medio,0,False
+MET-00814,USR-004,2026-09-28,Dev,Desarrollo,7.6,11,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.647,Bajo,0,False
+MET-00844,USR-004,2026-09-29,Dev,Desarrollo,9.5,4,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.076,Medio,0,False
+MET-00874,USR-004,2026-09-30,Dev,Desarrollo,10.5,16,7,Hubo incidentes en producción y mucha presión por las entregas.,0.006,Alto,1,False
+MET-00904,USR-004,2026-10-01,Dev,Desarrollo,8.3,14,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.364,Medio,0,False
+MET-00934,USR-004,2026-10-02,Dev,Desarrollo,8.1,17,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.447,Alto,1,False
+MET-00964,USR-004,2026-10-03,Dev,Desarrollo,8.0,9,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.593,Bajo,0,False
+MET-00994,USR-004,2026-10-04,Dev,Desarrollo,10.3,15,8,Se acumularon tickets y tuve que extender mi jornada.,-0.378,Alto,1,False
+MET-01024,USR-004,2026-10-05,Dev,Desarrollo,11.6,15,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.905,Burnout Inminente,2,False
+MET-01054,USR-004,2026-10-06,Dev,Desarrollo,10.8,13,6,Hubo incidentes en producción y mucha presión por las entregas.,-0.297,Alto,3,True
+MET-01084,USR-004,2026-10-07,Dev,Desarrollo,9.0,13,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.019,Medio,0,False
+MET-01114,USR-004,2026-10-08,Dev,Desarrollo,12.8,16,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.707,Burnout Inminente,1,False
+MET-01144,USR-004,2026-10-09,Dev,Desarrollo,12.5,4,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.783,Burnout Inminente,2,False
+MET-01174,USR-004,2026-10-10,Dev,Desarrollo,9.1,10,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.13,Medio,0,False
+MET-00005,USR-005,2026-09-01,HR,RRHH,10.7,3,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.962,Burnout Inminente,1,False
+MET-00035,USR-005,2026-09-02,HR,RRHH,9.3,17,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.691,Alto,2,False
+MET-00065,USR-005,2026-09-03,HR,RRHH,13.0,11,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.634,Burnout Inminente,3,True
+MET-00095,USR-005,2026-09-04,HR,RRHH,7.8,17,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.475,Bajo,0,False
+MET-00125,USR-005,2026-09-05,HR,RRHH,6.5,7,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.371,Bajo,0,False
+MET-00155,USR-005,2026-09-06,HR,RRHH,10.1,15,8,Se acumularon tickets y tuve que extender mi jornada.,-0.371,Alto,1,False
+MET-00185,USR-005,2026-09-07,HR,RRHH,12.0,18,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.598,Burnout Inminente,2,False
+MET-00215,USR-005,2026-09-08,HR,RRHH,7.8,9,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.338,Medio,0,False
+MET-00245,USR-005,2026-09-09,HR,RRHH,9.6,5,6,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.253,Alto,1,False
+MET-00275,USR-005,2026-09-10,HR,RRHH,8.5,15,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.267,Medio,0,False
+MET-00305,USR-005,2026-09-11,HR,RRHH,9.4,9,8,La carga de trabajo fue elevada y terminé bastante agotado.,0.052,Alto,1,False
+MET-00335,USR-005,2026-09-12,HR,RRHH,11.1,6,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.724,Burnout Inminente,2,False
+MET-00365,USR-005,2026-09-13,HR,RRHH,9.0,16,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.348,Medio,0,False
+MET-00395,USR-005,2026-09-14,HR,RRHH,7.2,8,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.023,Medio,0,False
+MET-00425,USR-005,2026-09-15,HR,RRHH,10.7,11,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.723,Burnout Inminente,1,False
+MET-00455,USR-005,2026-09-16,HR,RRHH,9.5,7,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.898,Burnout Inminente,2,False
+MET-00485,USR-005,2026-09-17,HR,RRHH,10.2,18,8,Se acumularon tickets y tuve que extender mi jornada.,-0.398,Alto,3,True
+MET-00515,USR-005,2026-09-18,HR,RRHH,8.0,12,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.228,Medio,0,False
+MET-00545,USR-005,2026-09-19,HR,RRHH,8.5,23,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.419,Alto,1,False
+MET-00575,USR-005,2026-09-20,HR,RRHH,7.5,12,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.349,Bajo,0,False
+MET-00605,USR-005,2026-09-21,HR,RRHH,8.8,13,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.152,Medio,0,False
+MET-00635,USR-005,2026-09-22,HR,RRHH,12.7,1,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.742,Burnout Inminente,1,False
+MET-00665,USR-005,2026-09-23,HR,RRHH,7.6,12,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.318,Medio,0,False
+MET-00695,USR-005,2026-09-24,HR,RRHH,7.0,10,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.706,Bajo,0,False
+MET-00725,USR-005,2026-09-25,HR,RRHH,8.0,12,9,La carga de trabajo fue elevada y terminé bastante agotado.,-0.357,Alto,1,False
+MET-00755,USR-005,2026-09-26,HR,RRHH,8.6,11,6,Hubo incidentes en producción y mucha presión por las entregas.,-0.299,Alto,2,False
+MET-00785,USR-005,2026-09-27,HR,RRHH,9.1,13,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.113,Medio,0,False
+MET-00815,USR-005,2026-09-28,HR,RRHH,9.2,19,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.104,Alto,1,False
+MET-00845,USR-005,2026-09-29,HR,RRHH,7.0,12,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.489,Bajo,0,False
+MET-00875,USR-005,2026-09-30,HR,RRHH,12.5,7,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.804,Burnout Inminente,1,False
+MET-00905,USR-005,2026-10-01,HR,RRHH,7.7,16,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.404,Medio,0,False
+MET-00935,USR-005,2026-10-02,HR,RRHH,11.2,6,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.952,Burnout Inminente,1,False
+MET-00965,USR-005,2026-10-03,HR,RRHH,7.4,8,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.131,Medio,0,False
+MET-00995,USR-005,2026-10-04,HR,RRHH,8.8,13,7,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.082,Medio,0,False
+MET-01025,USR-005,2026-10-05,HR,RRHH,8.8,10,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.198,Medio,0,False
+MET-01055,USR-005,2026-10-06,HR,RRHH,11.8,15,7,Se acumularon tickets y tuve que extender mi jornada.,-0.817,Alto,1,False
+MET-01085,USR-005,2026-10-07,HR,RRHH,7.2,3,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.101,Medio,0,False
+MET-01115,USR-005,2026-10-08,HR,RRHH,8.9,5,7,Se acumularon tickets y tuve que extender mi jornada.,-0.274,Alto,1,False
+MET-01145,USR-005,2026-10-09,HR,RRHH,8.9,10,9,Se acumularon tickets y tuve que extender mi jornada.,-0.237,Alto,2,False
+MET-01175,USR-005,2026-10-10,HR,RRHH,7.5,10,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.536,Bajo,0,False
+MET-00006,USR-006,2026-09-01,Dev,Desarrollo,9.5,11,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.176,Medio,0,False
+MET-00036,USR-006,2026-09-02,Dev,Desarrollo,8.6,5,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.226,Medio,0,False
+MET-00066,USR-006,2026-09-03,Dev,Desarrollo,6.6,1,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.436,Bajo,0,False
+MET-00096,USR-006,2026-09-04,Dev,Desarrollo,10.9,0,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.829,Burnout Inminente,1,False
+MET-00126,USR-006,2026-09-05,Dev,Desarrollo,12.6,0,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.666,Burnout Inminente,2,False
+MET-00156,USR-006,2026-09-06,Dev,Desarrollo,10.9,19,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.548,Burnout Inminente,3,True
+MET-00186,USR-006,2026-09-07,Dev,Desarrollo,8.3,10,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.414,Alto,4,True
+MET-00216,USR-006,2026-09-08,Dev,Desarrollo,11.9,17,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.481,Burnout Inminente,5,True
+MET-00246,USR-006,2026-09-09,Dev,Desarrollo,7.7,7,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.611,Bajo,0,False
+MET-00276,USR-006,2026-09-10,Dev,Desarrollo,7.8,16,1,"Deploy exitoso y equipo coordinado, sin urgencias.",0.595,Bajo,0,False
+MET-00306,USR-006,2026-09-11,Dev,Desarrollo,10.5,12,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.688,Burnout Inminente,1,False
+MET-00336,USR-006,2026-09-12,Dev,Desarrollo,7.3,11,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.834,Bajo,0,False
+MET-00366,USR-006,2026-09-13,Dev,Desarrollo,9.9,12,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.607,Alto,1,False
+MET-00396,USR-006,2026-09-14,Dev,Desarrollo,10.2,8,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.406,Alto,2,False
+MET-00426,USR-006,2026-09-15,Dev,Desarrollo,7.4,12,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.82,Bajo,0,False
+MET-00456,USR-006,2026-09-16,Dev,Desarrollo,7.1,9,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.503,Bajo,0,False
+MET-00486,USR-006,2026-09-17,Dev,Desarrollo,12.0,10,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.801,Burnout Inminente,1,False
+MET-00516,USR-006,2026-09-18,Dev,Desarrollo,9.0,13,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.154,Medio,0,False
+MET-00546,USR-006,2026-09-19,Dev,Desarrollo,11.5,7,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.544,Burnout Inminente,1,False
+MET-00576,USR-006,2026-09-20,Dev,Desarrollo,12.8,6,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.712,Burnout Inminente,2,False
+MET-00606,USR-006,2026-09-21,Dev,Desarrollo,12.7,7,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.757,Burnout Inminente,3,True
+MET-00636,USR-006,2026-09-22,Dev,Desarrollo,6.7,9,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.564,Bajo,0,False
+MET-00666,USR-006,2026-09-23,Dev,Desarrollo,7.5,13,4,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.057,Medio,0,False
+MET-00696,USR-006,2026-09-24,Dev,Desarrollo,9.1,6,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.081,Medio,0,False
+MET-00726,USR-006,2026-09-25,Dev,Desarrollo,7.2,8,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.679,Bajo,0,False
+MET-00756,USR-006,2026-09-26,Dev,Desarrollo,11.1,11,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.166,Alto,1,False
+MET-00786,USR-006,2026-09-27,Dev,Desarrollo,10.8,13,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.553,Alto,2,False
+MET-00816,USR-006,2026-09-28,Dev,Desarrollo,11.5,3,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.574,Burnout Inminente,3,True
+MET-00846,USR-006,2026-09-29,Dev,Desarrollo,13.9,9,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.596,Burnout Inminente,4,True
+MET-00876,USR-006,2026-09-30,Dev,Desarrollo,11.1,13,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.409,Alto,5,True
+MET-00906,USR-006,2026-10-01,Dev,Desarrollo,8.7,3,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.41,Alto,6,True
+MET-00936,USR-006,2026-10-02,Dev,Desarrollo,6.7,11,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.65,Bajo,0,False
+MET-00966,USR-006,2026-10-03,Dev,Desarrollo,11.2,8,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.782,Burnout Inminente,1,False
+MET-00996,USR-006,2026-10-04,Dev,Desarrollo,8.1,19,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.418,Bajo,0,False
+MET-01026,USR-006,2026-10-05,Dev,Desarrollo,10.2,16,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.617,Burnout Inminente,1,False
+MET-01056,USR-006,2026-10-06,Dev,Desarrollo,8.0,13,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.161,Alto,2,False
+MET-01086,USR-006,2026-10-07,Dev,Desarrollo,7.8,16,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.805,Bajo,0,False
+MET-01116,USR-006,2026-10-08,Dev,Desarrollo,8.0,13,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.829,Bajo,0,False
+MET-01146,USR-006,2026-10-09,Dev,Desarrollo,10.2,13,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.248,Alto,1,False
+MET-01176,USR-006,2026-10-10,Dev,Desarrollo,7.7,14,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.324,Medio,0,False
+MET-00007,USR-007,2026-09-01,Dev,Desarrollo,9.5,7,8,Se acumularon tickets y tuve que extender mi jornada.,-0.337,Alto,1,False
+MET-00037,USR-007,2026-09-02,Dev,Desarrollo,7.4,6,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.382,Bajo,0,False
+MET-00067,USR-007,2026-09-03,Dev,Desarrollo,7.0,15,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.363,Bajo,0,False
+MET-00097,USR-007,2026-09-04,Dev,Desarrollo,7.8,12,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.649,Medio,0,False
+MET-00127,USR-007,2026-09-05,Dev,Desarrollo,9.4,10,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.61,Alto,1,False
+MET-00157,USR-007,2026-09-06,Dev,Desarrollo,8.2,7,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.597,Bajo,0,False
+MET-00187,USR-007,2026-09-07,Dev,Desarrollo,10.5,14,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.586,Alto,1,False
+MET-00217,USR-007,2026-09-08,Dev,Desarrollo,9.4,14,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.346,Alto,2,False
+MET-00247,USR-007,2026-09-09,Dev,Desarrollo,7.2,15,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.778,Bajo,0,False
+MET-00277,USR-007,2026-09-10,Dev,Desarrollo,11.1,16,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.652,Alto,1,False
+MET-00307,USR-007,2026-09-11,Dev,Desarrollo,7.1,10,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.594,Bajo,0,False
+MET-00337,USR-007,2026-09-12,Dev,Desarrollo,9.1,1,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.414,Medio,0,False
+MET-00367,USR-007,2026-09-13,Dev,Desarrollo,9.4,21,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.333,Alto,1,False
+MET-00397,USR-007,2026-09-14,Dev,Desarrollo,10.4,14,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.501,Alto,2,False
+MET-00427,USR-007,2026-09-15,Dev,Desarrollo,12.1,12,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.465,Burnout Inminente,3,True
+MET-00457,USR-007,2026-09-16,Dev,Desarrollo,7.3,7,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.874,Bajo,0,False
+MET-00487,USR-007,2026-09-17,Dev,Desarrollo,7.6,11,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.615,Bajo,0,False
+MET-00517,USR-007,2026-09-18,Dev,Desarrollo,7.4,3,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.596,Bajo,0,False
+MET-00547,USR-007,2026-09-19,Dev,Desarrollo,5.8,6,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.572,Bajo,0,False
+MET-00577,USR-007,2026-09-20,Dev,Desarrollo,13.7,12,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.777,Burnout Inminente,1,False
+MET-00607,USR-007,2026-09-21,Dev,Desarrollo,10.2,11,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.759,Burnout Inminente,2,False
+MET-00637,USR-007,2026-09-22,Dev,Desarrollo,10.0,5,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.039,Medio,0,False
+MET-00667,USR-007,2026-09-23,Dev,Desarrollo,7.5,13,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.398,Bajo,0,False
+MET-00697,USR-007,2026-09-24,Dev,Desarrollo,11.2,3,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.944,Burnout Inminente,1,False
+MET-00727,USR-007,2026-09-25,Dev,Desarrollo,8.6,11,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.669,Alto,2,False
+MET-00757,USR-007,2026-09-26,Dev,Desarrollo,7.0,12,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.292,Medio,0,False
+MET-00787,USR-007,2026-09-27,Dev,Desarrollo,8.7,8,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.002,Medio,0,False
+MET-00817,USR-007,2026-09-28,Dev,Desarrollo,8.9,7,7,Hubo cambios de prioridad durante el día y costó concentrarme.,0.085,Medio,0,False
+MET-00847,USR-007,2026-09-29,Dev,Desarrollo,9.2,8,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.2,Medio,0,False
+MET-00877,USR-007,2026-09-30,Dev,Desarrollo,6.9,11,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.609,Bajo,0,False
+MET-00907,USR-007,2026-10-01,Dev,Desarrollo,11.8,9,7,Se acumularon tickets y tuve que extender mi jornada.,-0.252,Alto,1,False
+MET-00937,USR-007,2026-10-02,Dev,Desarrollo,6.6,3,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.652,Bajo,0,False
+MET-00967,USR-007,2026-10-03,Dev,Desarrollo,11.3,10,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.502,Burnout Inminente,1,False
+MET-00997,USR-007,2026-10-04,Dev,Desarrollo,11.9,11,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.832,Burnout Inminente,2,False
+MET-01027,USR-007,2026-10-05,Dev,Desarrollo,11.6,6,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.547,Burnout Inminente,3,True
+MET-01057,USR-007,2026-10-06,Dev,Desarrollo,8.7,22,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.328,Alto,4,True
+MET-01087,USR-007,2026-10-07,Dev,Desarrollo,11.0,8,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.987,Burnout Inminente,5,True
+MET-01117,USR-007,2026-10-08,Dev,Desarrollo,11.1,13,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.687,Burnout Inminente,6,True
+MET-01147,USR-007,2026-10-09,Dev,Desarrollo,7.1,13,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.785,Bajo,0,False
+MET-01177,USR-007,2026-10-10,Dev,Desarrollo,10.5,20,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.527,Alto,1,False
+MET-00008,USR-008,2026-09-01,DevOps,DevOps,6.8,8,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.953,Bajo,0,False
+MET-00038,USR-008,2026-09-02,DevOps,DevOps,7.5,11,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.682,Bajo,0,False
+MET-00068,USR-008,2026-09-03,DevOps,DevOps,11.3,17,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.965,Burnout Inminente,1,False
+MET-00098,USR-008,2026-09-04,DevOps,DevOps,7.8,7,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.709,Bajo,0,False
+MET-00128,USR-008,2026-09-05,DevOps,DevOps,11.7,10,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.758,Burnout Inminente,1,False
+MET-00158,USR-008,2026-09-06,DevOps,DevOps,10.1,5,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.083,Alto,2,False
+MET-00188,USR-008,2026-09-07,DevOps,DevOps,9.4,8,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.717,Alto,3,True
+MET-00218,USR-008,2026-09-08,DevOps,DevOps,12.4,7,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.87,Burnout Inminente,4,True
+MET-00248,USR-008,2026-09-09,DevOps,DevOps,7.1,11,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.252,Bajo,0,False
+MET-00278,USR-008,2026-09-10,DevOps,DevOps,9.4,12,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.372,Alto,1,False
+MET-00308,USR-008,2026-09-11,DevOps,DevOps,12.7,5,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.955,Burnout Inminente,2,False
+MET-00338,USR-008,2026-09-12,DevOps,DevOps,8.7,7,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.816,Alto,3,True
+MET-00368,USR-008,2026-09-13,DevOps,DevOps,6.4,14,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.51,Bajo,0,False
+MET-00398,USR-008,2026-09-14,DevOps,DevOps,7.8,7,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.55,Medio,0,False
+MET-00428,USR-008,2026-09-15,DevOps,DevOps,9.9,19,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.446,Alto,1,False
+MET-00458,USR-008,2026-09-16,DevOps,DevOps,9.9,17,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.369,Alto,2,False
+MET-00488,USR-008,2026-09-17,DevOps,DevOps,7.9,5,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.847,Bajo,0,False
+MET-00518,USR-008,2026-09-18,DevOps,DevOps,13.1,14,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.565,Burnout Inminente,1,False
+MET-00548,USR-008,2026-09-19,DevOps,DevOps,9.6,5,8,Se acumularon tickets y tuve que extender mi jornada.,-0.318,Alto,2,False
+MET-00578,USR-008,2026-09-20,DevOps,DevOps,8.8,10,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.629,Medio,0,False
+MET-00608,USR-008,2026-09-21,DevOps,DevOps,12.8,11,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.903,Burnout Inminente,1,False
+MET-00638,USR-008,2026-09-22,DevOps,DevOps,7.9,5,5,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.282,Bajo,0,False
+MET-00668,USR-008,2026-09-23,DevOps,DevOps,12.3,4,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.663,Burnout Inminente,1,False
+MET-00698,USR-008,2026-09-24,DevOps,DevOps,9.6,16,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.543,Alto,2,False
+MET-00728,USR-008,2026-09-25,DevOps,DevOps,11.2,5,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.696,Burnout Inminente,3,True
+MET-00758,USR-008,2026-09-26,DevOps,DevOps,8.0,1,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.015,Medio,0,False
+MET-00788,USR-008,2026-09-27,DevOps,DevOps,8.3,14,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.088,Medio,0,False
+MET-00818,USR-008,2026-09-28,DevOps,DevOps,10.2,12,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.612,Alto,1,False
+MET-00848,USR-008,2026-09-29,DevOps,DevOps,7.8,5,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.475,Bajo,0,False
+MET-00878,USR-008,2026-09-30,DevOps,DevOps,7.5,14,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.462,Bajo,0,False
+MET-00908,USR-008,2026-10-01,DevOps,DevOps,6.2,12,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.506,Bajo,0,False
+MET-00938,USR-008,2026-10-02,DevOps,DevOps,11.4,10,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.348,Alto,1,False
+MET-00968,USR-008,2026-10-03,DevOps,DevOps,7.3,6,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.648,Bajo,0,False
+MET-00998,USR-008,2026-10-04,DevOps,DevOps,8.3,5,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.535,Bajo,0,False
+MET-01028,USR-008,2026-10-05,DevOps,DevOps,9.8,19,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.591,Alto,1,False
+MET-01058,USR-008,2026-10-06,DevOps,DevOps,7.4,5,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.864,Bajo,0,False
+MET-01088,USR-008,2026-10-07,DevOps,DevOps,10.8,0,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.743,Burnout Inminente,1,False
+MET-01118,USR-008,2026-10-08,DevOps,DevOps,11.8,10,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.557,Burnout Inminente,2,False
+MET-01148,USR-008,2026-10-09,DevOps,DevOps,9.6,10,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.377,Alto,3,True
+MET-01178,USR-008,2026-10-10,DevOps,DevOps,10.9,10,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.29,Alto,4,True
+MET-00009,USR-009,2026-09-01,HR,RRHH,11.7,13,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.933,Burnout Inminente,1,False
+MET-00039,USR-009,2026-09-02,HR,RRHH,6.8,11,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.491,Bajo,0,False
+MET-00069,USR-009,2026-09-03,HR,RRHH,11.1,8,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.318,Alto,1,False
+MET-00099,USR-009,2026-09-04,HR,RRHH,6.3,14,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.536,Bajo,0,False
+MET-00129,USR-009,2026-09-05,HR,RRHH,8.2,9,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.369,Medio,0,False
+MET-00159,USR-009,2026-09-06,HR,RRHH,8.3,7,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.234,Medio,0,False
+MET-00189,USR-009,2026-09-07,HR,RRHH,6.6,7,4,Las tareas estuvieron organizadas y pude hacer pausas.,1.0,Bajo,0,False
+MET-00219,USR-009,2026-09-08,HR,RRHH,8.7,13,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.025,Alto,1,False
+MET-00249,USR-009,2026-09-09,HR,RRHH,9.8,8,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.482,Alto,2,False
+MET-00279,USR-009,2026-09-10,HR,RRHH,12.6,9,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.695,Burnout Inminente,3,True
+MET-00309,USR-009,2026-09-11,HR,RRHH,7.1,8,5,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.915,Bajo,0,False
+MET-00339,USR-009,2026-09-12,HR,RRHH,8.8,9,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.468,Medio,0,False
+MET-00369,USR-009,2026-09-13,HR,RRHH,9.9,9,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.277,Alto,1,False
+MET-00399,USR-009,2026-09-14,HR,RRHH,12.1,0,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.901,Burnout Inminente,2,False
+MET-00429,USR-009,2026-09-15,HR,RRHH,9.5,5,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.764,Burnout Inminente,3,True
+MET-00459,USR-009,2026-09-16,HR,RRHH,10.9,10,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.34,Alto,4,True
+MET-00489,USR-009,2026-09-17,HR,RRHH,7.7,9,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.524,Medio,0,False
+MET-00519,USR-009,2026-09-18,HR,RRHH,10.1,10,8,Se acumularon tickets y tuve que extender mi jornada.,-0.49,Alto,1,False
+MET-00549,USR-009,2026-09-19,HR,RRHH,8.3,11,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.501,Bajo,0,False
+MET-00579,USR-009,2026-09-20,HR,RRHH,11.9,12,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.687,Burnout Inminente,1,False
+MET-00609,USR-009,2026-09-21,HR,RRHH,10.0,14,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.501,Alto,2,False
+MET-00639,USR-009,2026-09-22,HR,RRHH,13.6,3,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.67,Burnout Inminente,3,True
+MET-00669,USR-009,2026-09-23,HR,RRHH,12.0,2,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-1.0,Burnout Inminente,4,True
+MET-00699,USR-009,2026-09-24,HR,RRHH,9.6,13,7,Se acumularon tickets y tuve que extender mi jornada.,-0.607,Alto,5,True
+MET-00729,USR-009,2026-09-25,HR,RRHH,11.0,12,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.473,Burnout Inminente,6,True
+MET-00759,USR-009,2026-09-26,HR,RRHH,12.2,8,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.683,Burnout Inminente,7,True
+MET-00789,USR-009,2026-09-27,HR,RRHH,8.0,8,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.779,Alto,8,True
+MET-00819,USR-009,2026-09-28,HR,RRHH,12.6,3,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.547,Burnout Inminente,9,True
+MET-00849,USR-009,2026-09-29,HR,RRHH,8.3,19,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.166,Medio,0,False
+MET-00879,USR-009,2026-09-30,HR,RRHH,13.4,11,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.679,Burnout Inminente,1,False
+MET-00909,USR-009,2026-10-01,HR,RRHH,8.2,13,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.247,Medio,0,False
+MET-00939,USR-009,2026-10-02,HR,RRHH,13.0,4,9,"No puedo sostener este ritmo, estoy completamente saturado.",-1.0,Burnout Inminente,1,False
+MET-00969,USR-009,2026-10-03,HR,RRHH,7.6,8,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.478,Medio,0,False
+MET-00999,USR-009,2026-10-04,HR,RRHH,6.9,3,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.187,Medio,0,False
+MET-01029,USR-009,2026-10-05,HR,RRHH,9.6,18,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.087,Medio,0,False
+MET-01059,USR-009,2026-10-06,HR,RRHH,6.8,5,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.408,Bajo,0,False
+MET-01089,USR-009,2026-10-07,HR,RRHH,9.8,15,6,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.263,Alto,1,False
+MET-01119,USR-009,2026-10-08,HR,RRHH,9.4,14,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.309,Medio,0,False
+MET-01149,USR-009,2026-10-09,HR,RRHH,8.8,11,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.22,Medio,0,False
+MET-01179,USR-009,2026-10-10,HR,RRHH,7.5,10,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.613,Bajo,0,False
+MET-00010,USR-010,2026-09-01,HR,RRHH,11.9,0,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.72,Burnout Inminente,1,False
+MET-00040,USR-010,2026-09-02,HR,RRHH,11.8,7,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.276,Alto,2,False
+MET-00070,USR-010,2026-09-03,HR,RRHH,11.9,8,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.808,Burnout Inminente,3,True
+MET-00100,USR-010,2026-09-04,HR,RRHH,7.1,11,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.489,Medio,0,False
+MET-00130,USR-010,2026-09-05,HR,RRHH,8.8,11,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.368,Medio,0,False
+MET-00160,USR-010,2026-09-06,HR,RRHH,9.0,6,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.144,Medio,0,False
+MET-00190,USR-010,2026-09-07,HR,RRHH,10.5,9,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.266,Alto,1,False
+MET-00220,USR-010,2026-09-08,HR,RRHH,6.9,10,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.834,Bajo,0,False
+MET-00250,USR-010,2026-09-09,HR,RRHH,11.7,10,8,Se acumularon tickets y tuve que extender mi jornada.,-0.294,Alto,1,False
+MET-00280,USR-010,2026-09-10,HR,RRHH,14.0,9,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.592,Burnout Inminente,2,False
+MET-00310,USR-010,2026-09-11,HR,RRHH,13.4,11,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.506,Burnout Inminente,3,True
+MET-00340,USR-010,2026-09-12,HR,RRHH,6.8,6,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.653,Bajo,0,False
+MET-00370,USR-010,2026-09-13,HR,RRHH,11.6,3,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.816,Burnout Inminente,1,False
+MET-00400,USR-010,2026-09-14,HR,RRHH,8.9,11,7,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.002,Medio,0,False
+MET-00430,USR-010,2026-09-15,HR,RRHH,7.4,12,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.542,Bajo,0,False
+MET-00460,USR-010,2026-09-16,HR,RRHH,8.9,13,8,Se acumularon tickets y tuve que extender mi jornada.,-0.466,Alto,1,False
+MET-00490,USR-010,2026-09-17,HR,RRHH,8.0,18,10,Hubo incidentes en producción y mucha presión por las entregas.,-0.371,Alto,2,False
+MET-00520,USR-010,2026-09-18,HR,RRHH,7.6,10,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.539,Bajo,0,False
+MET-00550,USR-010,2026-09-19,HR,RRHH,10.4,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.313,Alto,1,False
+MET-00580,USR-010,2026-09-20,HR,RRHH,12.5,5,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.915,Burnout Inminente,2,False
+MET-00610,USR-010,2026-09-21,HR,RRHH,7.1,9,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.331,Bajo,0,False
+MET-00640,USR-010,2026-09-22,HR,RRHH,6.5,12,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.411,Medio,0,False
+MET-00670,USR-010,2026-09-23,HR,RRHH,10.3,13,6,Hubo incidentes en producción y mucha presión por las entregas.,-0.478,Alto,1,False
+MET-00700,USR-010,2026-09-24,HR,RRHH,8.8,10,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.255,Medio,0,False
+MET-00730,USR-010,2026-09-25,HR,RRHH,8.3,11,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.504,Medio,0,False
+MET-00760,USR-010,2026-09-26,HR,RRHH,11.4,2,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.781,Burnout Inminente,1,False
+MET-00790,USR-010,2026-09-27,HR,RRHH,7.5,16,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.258,Medio,0,False
+MET-00820,USR-010,2026-09-28,HR,RRHH,11.1,13,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.298,Alto,1,False
+MET-00850,USR-010,2026-09-29,HR,RRHH,8.8,20,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.079,Medio,0,False
+MET-00880,USR-010,2026-09-30,HR,RRHH,10.9,16,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-1.0,Burnout Inminente,1,False
+MET-00910,USR-010,2026-10-01,HR,RRHH,9.7,12,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.319,Alto,2,False
+MET-00940,USR-010,2026-10-02,HR,RRHH,11.8,10,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.753,Burnout Inminente,3,True
+MET-00970,USR-010,2026-10-03,HR,RRHH,7.8,5,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.585,Bajo,0,False
+MET-01000,USR-010,2026-10-04,HR,RRHH,5.8,15,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.685,Bajo,0,False
+MET-01030,USR-010,2026-10-05,HR,RRHH,8.2,9,3,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.08,Medio,0,False
+MET-01060,USR-010,2026-10-06,HR,RRHH,9.5,17,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.16,Medio,0,False
+MET-01090,USR-010,2026-10-07,HR,RRHH,10.2,16,7,Se acumularon tickets y tuve que extender mi jornada.,-0.27,Alto,1,False
+MET-01120,USR-010,2026-10-08,HR,RRHH,9.6,6,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.188,Alto,2,False
+MET-01150,USR-010,2026-10-09,HR,RRHH,8.2,13,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.508,Medio,0,False
+MET-01180,USR-010,2026-10-10,HR,RRHH,10.0,14,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.208,Medio,0,False
+MET-00011,USR-011,2026-09-01,DevOps,DevOps,12.4,7,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.795,Burnout Inminente,1,False
+MET-00041,USR-011,2026-09-02,DevOps,DevOps,10.7,15,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.873,Burnout Inminente,2,False
+MET-00071,USR-011,2026-09-03,DevOps,DevOps,11.8,18,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.936,Burnout Inminente,3,True
+MET-00101,USR-011,2026-09-04,DevOps,DevOps,10.1,8,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.743,Burnout Inminente,4,True
+MET-00131,USR-011,2026-09-05,DevOps,DevOps,6.1,8,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.723,Bajo,0,False
+MET-00161,USR-011,2026-09-06,DevOps,DevOps,9.7,12,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.751,Alto,1,False
+MET-00191,USR-011,2026-09-07,DevOps,DevOps,8.0,21,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.156,Medio,0,False
+MET-00221,USR-011,2026-09-08,DevOps,DevOps,8.3,9,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.808,Bajo,0,False
+MET-00251,USR-011,2026-09-09,DevOps,DevOps,8.1,10,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.504,Bajo,0,False
+MET-00281,USR-011,2026-09-10,DevOps,DevOps,7.9,12,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.414,Bajo,0,False
+MET-00311,USR-011,2026-09-11,DevOps,DevOps,9.6,10,8,Se acumularon tickets y tuve que extender mi jornada.,-0.643,Alto,1,False
+MET-00341,USR-011,2026-09-12,DevOps,DevOps,10.0,14,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.634,Alto,2,False
+MET-00371,USR-011,2026-09-13,DevOps,DevOps,10.7,22,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.508,Alto,3,True
+MET-00401,USR-011,2026-09-14,DevOps,DevOps,11.5,4,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.87,Burnout Inminente,4,True
+MET-00431,USR-011,2026-09-15,DevOps,DevOps,7.5,12,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.731,Bajo,0,False
+MET-00461,USR-011,2026-09-16,DevOps,DevOps,8.3,9,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.203,Medio,0,False
+MET-00491,USR-011,2026-09-17,DevOps,DevOps,7.2,12,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.736,Bajo,0,False
+MET-00521,USR-011,2026-09-18,DevOps,DevOps,8.4,5,6,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.394,Medio,0,False
+MET-00551,USR-011,2026-09-19,DevOps,DevOps,11.7,17,8,Se acumularon tickets y tuve que extender mi jornada.,-0.705,Alto,1,False
+MET-00581,USR-011,2026-09-20,DevOps,DevOps,7.5,11,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.921,Bajo,0,False
+MET-00611,USR-011,2026-09-21,DevOps,DevOps,13.4,0,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.647,Burnout Inminente,1,False
+MET-00641,USR-011,2026-09-22,DevOps,DevOps,7.6,7,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.244,Medio,0,False
+MET-00671,USR-011,2026-09-23,DevOps,DevOps,7.6,9,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.752,Bajo,0,False
+MET-00701,USR-011,2026-09-24,DevOps,DevOps,7.3,11,5,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.439,Bajo,0,False
+MET-00731,USR-011,2026-09-25,DevOps,DevOps,6.7,9,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.608,Bajo,0,False
+MET-00761,USR-011,2026-09-26,DevOps,DevOps,12.3,4,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.716,Burnout Inminente,1,False
+MET-00791,USR-011,2026-09-27,DevOps,DevOps,9.4,11,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.573,Alto,2,False
+MET-00821,USR-011,2026-09-28,DevOps,DevOps,6.6,4,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.778,Bajo,0,False
+MET-00851,USR-011,2026-09-29,DevOps,DevOps,12.2,9,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.765,Burnout Inminente,1,False
+MET-00881,USR-011,2026-09-30,DevOps,DevOps,8.8,7,3,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.587,Medio,0,False
+MET-00911,USR-011,2026-10-01,DevOps,DevOps,9.5,8,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.428,Alto,1,False
+MET-00941,USR-011,2026-10-02,DevOps,DevOps,8.6,8,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.386,Medio,0,False
+MET-00971,USR-011,2026-10-03,DevOps,DevOps,12.0,0,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.884,Burnout Inminente,1,False
+MET-01001,USR-011,2026-10-04,DevOps,DevOps,6.6,10,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.705,Bajo,0,False
+MET-01031,USR-011,2026-10-05,DevOps,DevOps,6.8,13,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.657,Bajo,0,False
+MET-01061,USR-011,2026-10-06,DevOps,DevOps,8.3,10,8,Se acumularon tickets y tuve que extender mi jornada.,-0.266,Alto,1,False
+MET-01091,USR-011,2026-10-07,DevOps,DevOps,12.0,10,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.571,Burnout Inminente,2,False
+MET-01121,USR-011,2026-10-08,DevOps,DevOps,10.5,3,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.667,Burnout Inminente,3,True
+MET-01151,USR-011,2026-10-09,DevOps,DevOps,7.1,15,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.856,Bajo,0,False
+MET-01181,USR-011,2026-10-10,DevOps,DevOps,7.9,10,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.565,Bajo,0,False
+MET-00012,USR-012,2026-09-01,HR,RRHH,7.3,9,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.444,Medio,0,False
+MET-00042,USR-012,2026-09-02,HR,RRHH,10.9,17,8,Se acumularon tickets y tuve que extender mi jornada.,-0.003,Alto,1,False
+MET-00072,USR-012,2026-09-03,HR,RRHH,10.0,10,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.327,Medio,0,False
+MET-00102,USR-012,2026-09-04,HR,RRHH,9.6,8,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.451,Alto,1,False
+MET-00132,USR-012,2026-09-05,HR,RRHH,10.9,0,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.743,Burnout Inminente,2,False
+MET-00162,USR-012,2026-09-06,HR,RRHH,11.5,0,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.758,Burnout Inminente,3,True
+MET-00192,USR-012,2026-09-07,HR,RRHH,11.1,13,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.03,Alto,4,True
+MET-00222,USR-012,2026-09-08,HR,RRHH,10.6,16,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.499,Alto,5,True
+MET-00252,USR-012,2026-09-09,HR,RRHH,8.9,15,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.339,Medio,0,False
+MET-00282,USR-012,2026-09-10,HR,RRHH,8.3,11,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.484,Bajo,0,False
+MET-00312,USR-012,2026-09-11,HR,RRHH,7.9,11,4,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.012,Medio,0,False
+MET-00342,USR-012,2026-09-12,HR,RRHH,12.9,8,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.89,Burnout Inminente,1,False
+MET-00372,USR-012,2026-09-13,HR,RRHH,10.2,6,8,Se acumularon tickets y tuve que extender mi jornada.,-0.807,Alto,2,False
+MET-00402,USR-012,2026-09-14,HR,RRHH,9.5,14,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.063,Alto,3,True
+MET-00432,USR-012,2026-09-15,HR,RRHH,9.1,10,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.242,Alto,4,True
+MET-00462,USR-012,2026-09-16,HR,RRHH,10.2,19,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.611,Alto,5,True
+MET-00492,USR-012,2026-09-17,HR,RRHH,10.5,12,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.453,Alto,6,True
+MET-00522,USR-012,2026-09-18,HR,RRHH,11.1,5,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.772,Burnout Inminente,7,True
+MET-00552,USR-012,2026-09-19,HR,RRHH,9.1,20,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.342,Alto,8,True
+MET-00582,USR-012,2026-09-20,HR,RRHH,8.4,7,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.083,Medio,0,False
+MET-00612,USR-012,2026-09-21,HR,RRHH,8.0,12,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.121,Medio,0,False
+MET-00642,USR-012,2026-09-22,HR,RRHH,9.1,8,7,Se acumularon tickets y tuve que extender mi jornada.,-0.277,Alto,1,False
+MET-00672,USR-012,2026-09-23,HR,RRHH,10.3,15,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.758,Alto,2,False
+MET-00702,USR-012,2026-09-24,HR,RRHH,7.1,10,1,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.47,Bajo,0,False
+MET-00732,USR-012,2026-09-25,HR,RRHH,10.1,12,8,Se acumularon tickets y tuve que extender mi jornada.,-0.373,Alto,1,False
+MET-00762,USR-012,2026-09-26,HR,RRHH,12.4,15,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.8,Burnout Inminente,2,False
+MET-00792,USR-012,2026-09-27,HR,RRHH,6.4,9,1,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.648,Bajo,0,False
+MET-00822,USR-012,2026-09-28,HR,RRHH,6.2,9,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.582,Bajo,0,False
+MET-00852,USR-012,2026-09-29,HR,RRHH,7.5,12,1,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.643,Bajo,0,False
+MET-00882,USR-012,2026-09-30,HR,RRHH,8.0,10,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.697,Medio,0,False
+MET-00912,USR-012,2026-10-01,HR,RRHH,9.2,14,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.373,Alto,1,False
+MET-00942,USR-012,2026-10-02,HR,RRHH,10.2,8,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.133,Alto,2,False
+MET-00972,USR-012,2026-10-03,HR,RRHH,9.9,2,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.456,Alto,3,True
+MET-01002,USR-012,2026-10-04,HR,RRHH,7.4,0,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.023,Medio,0,False
+MET-01032,USR-012,2026-10-05,HR,RRHH,7.4,7,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.944,Bajo,0,False
+MET-01062,USR-012,2026-10-06,HR,RRHH,11.7,9,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.421,Burnout Inminente,1,False
+MET-01092,USR-012,2026-10-07,HR,RRHH,9.4,10,9,Se acumularon tickets y tuve que extender mi jornada.,-0.413,Alto,2,False
+MET-01122,USR-012,2026-10-08,HR,RRHH,8.4,13,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.036,Medio,0,False
+MET-01152,USR-012,2026-10-09,HR,RRHH,6.5,9,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.708,Bajo,0,False
+MET-01182,USR-012,2026-10-10,HR,RRHH,9.9,14,6,Hubo incidentes en producción y mucha presión por las entregas.,-0.527,Alto,1,False
+MET-00013,USR-013,2026-09-01,Dev,Desarrollo,10.3,15,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.505,Alto,1,False
+MET-00043,USR-013,2026-09-02,Dev,Desarrollo,11.5,3,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.872,Burnout Inminente,2,False
+MET-00073,USR-013,2026-09-03,Dev,Desarrollo,10.3,12,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.528,Alto,3,True
+MET-00103,USR-013,2026-09-04,Dev,Desarrollo,8.5,14,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.101,Medio,0,False
+MET-00133,USR-013,2026-09-05,Dev,Desarrollo,7.4,12,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.321,Bajo,0,False
+MET-00163,USR-013,2026-09-06,Dev,Desarrollo,8.2,18,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.462,Medio,0,False
+MET-00193,USR-013,2026-09-07,Dev,Desarrollo,9.4,17,9,Se acumularon tickets y tuve que extender mi jornada.,-0.544,Alto,1,False
+MET-00223,USR-013,2026-09-08,Dev,Desarrollo,12.3,13,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.674,Burnout Inminente,2,False
+MET-00253,USR-013,2026-09-09,Dev,Desarrollo,9.2,16,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.229,Medio,0,False
+MET-00283,USR-013,2026-09-10,Dev,Desarrollo,7.2,11,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.696,Bajo,0,False
+MET-00313,USR-013,2026-09-11,Dev,Desarrollo,10.2,15,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.237,Alto,1,False
+MET-00343,USR-013,2026-09-12,Dev,Desarrollo,8.1,10,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.608,Medio,0,False
+MET-00373,USR-013,2026-09-13,Dev,Desarrollo,10.2,5,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.366,Burnout Inminente,1,False
+MET-00403,USR-013,2026-09-14,Dev,Desarrollo,8.6,10,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.211,Medio,0,False
+MET-00433,USR-013,2026-09-15,Dev,Desarrollo,8.7,10,7,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.093,Medio,0,False
+MET-00463,USR-013,2026-09-16,Dev,Desarrollo,10.9,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.029,Alto,1,False
+MET-00493,USR-013,2026-09-17,Dev,Desarrollo,11.5,12,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-1.0,Burnout Inminente,2,False
+MET-00523,USR-013,2026-09-18,Dev,Desarrollo,11.2,10,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.705,Burnout Inminente,3,True
+MET-00553,USR-013,2026-09-19,Dev,Desarrollo,11.4,0,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.659,Burnout Inminente,4,True
+MET-00583,USR-013,2026-09-20,Dev,Desarrollo,8.9,10,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.162,Medio,0,False
+MET-00613,USR-013,2026-09-21,Dev,Desarrollo,9.3,8,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.603,Alto,1,False
+MET-00643,USR-013,2026-09-22,Dev,Desarrollo,7.8,10,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.359,Bajo,0,False
+MET-00673,USR-013,2026-09-23,Dev,Desarrollo,10.7,8,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.474,Alto,1,False
+MET-00703,USR-013,2026-09-24,Dev,Desarrollo,10.9,12,7,Se acumularon tickets y tuve que extender mi jornada.,-0.56,Alto,2,False
+MET-00733,USR-013,2026-09-25,Dev,Desarrollo,13.3,13,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.818,Burnout Inminente,3,True
+MET-00763,USR-013,2026-09-26,Dev,Desarrollo,7.5,6,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.492,Bajo,0,False
+MET-00793,USR-013,2026-09-27,Dev,Desarrollo,11.6,2,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.659,Burnout Inminente,1,False
+MET-00823,USR-013,2026-09-28,Dev,Desarrollo,7.9,17,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.442,Medio,0,False
+MET-00853,USR-013,2026-09-29,Dev,Desarrollo,8.2,8,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.079,Medio,0,False
+MET-00883,USR-013,2026-09-30,Dev,Desarrollo,8.3,20,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.011,Alto,1,False
+MET-00913,USR-013,2026-10-01,Dev,Desarrollo,9.0,13,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.318,Medio,0,False
+MET-00943,USR-013,2026-10-02,Dev,Desarrollo,10.6,18,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.529,Alto,1,False
+MET-00973,USR-013,2026-10-03,Dev,Desarrollo,7.3,12,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.725,Bajo,0,False
+MET-01003,USR-013,2026-10-04,Dev,Desarrollo,9.5,13,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.729,Alto,1,False
+MET-01033,USR-013,2026-10-05,Dev,Desarrollo,6.7,9,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.62,Bajo,0,False
+MET-01063,USR-013,2026-10-06,Dev,Desarrollo,8.8,15,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.233,Medio,0,False
+MET-01093,USR-013,2026-10-07,Dev,Desarrollo,7.9,4,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.043,Medio,0,False
+MET-01123,USR-013,2026-10-08,Dev,Desarrollo,12.6,10,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.894,Burnout Inminente,1,False
+MET-01153,USR-013,2026-10-09,Dev,Desarrollo,7.6,10,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.256,Bajo,0,False
+MET-01183,USR-013,2026-10-10,Dev,Desarrollo,9.6,6,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.168,Medio,0,False
+MET-00014,USR-014,2026-09-01,Team Lead,Calidad,9.4,18,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.215,Alto,1,False
+MET-00044,USR-014,2026-09-02,Team Lead,Calidad,8.3,12,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.387,Medio,0,False
+MET-00074,USR-014,2026-09-03,Team Lead,Calidad,8.0,12,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.007,Medio,0,False
+MET-00104,USR-014,2026-09-04,Team Lead,Calidad,6.2,11,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.485,Bajo,0,False
+MET-00134,USR-014,2026-09-05,Team Lead,Calidad,8.4,8,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.192,Medio,0,False
+MET-00164,USR-014,2026-09-06,Team Lead,Calidad,7.0,18,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.631,Bajo,0,False
+MET-00194,USR-014,2026-09-07,Team Lead,Calidad,10.6,16,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.765,Alto,1,False
+MET-00224,USR-014,2026-09-08,Team Lead,Calidad,12.8,16,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.653,Burnout Inminente,2,False
+MET-00254,USR-014,2026-09-09,Team Lead,Calidad,13.8,18,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.72,Burnout Inminente,3,True
+MET-00284,USR-014,2026-09-10,Team Lead,Calidad,8.2,9,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.794,Bajo,0,False
+MET-00314,USR-014,2026-09-11,Team Lead,Calidad,9.7,15,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.931,Burnout Inminente,1,False
+MET-00344,USR-014,2026-09-12,Team Lead,Calidad,6.3,14,1,Las tareas estuvieron organizadas y pude hacer pausas.,0.582,Bajo,0,False
+MET-00374,USR-014,2026-09-13,Team Lead,Calidad,8.0,17,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.682,Medio,0,False
+MET-00404,USR-014,2026-09-14,Team Lead,Calidad,12.6,7,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.271,Burnout Inminente,1,False
+MET-00434,USR-014,2026-09-15,Team Lead,Calidad,8.4,14,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.224,Medio,0,False
+MET-00464,USR-014,2026-09-16,Team Lead,Calidad,10.5,14,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.851,Burnout Inminente,1,False
+MET-00494,USR-014,2026-09-17,Team Lead,Calidad,12.4,8,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.808,Burnout Inminente,2,False
+MET-00524,USR-014,2026-09-18,Team Lead,Calidad,8.9,15,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.161,Medio,0,False
+MET-00554,USR-014,2026-09-19,Team Lead,Calidad,10.8,11,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.362,Alto,1,False
+MET-00584,USR-014,2026-09-20,Team Lead,Calidad,7.3,15,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.324,Medio,0,False
+MET-00614,USR-014,2026-09-21,Team Lead,Calidad,7.2,12,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.888,Bajo,0,False
+MET-00644,USR-014,2026-09-22,Team Lead,Calidad,7.0,18,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.42,Bajo,0,False
+MET-00674,USR-014,2026-09-23,Team Lead,Calidad,7.2,11,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.878,Bajo,0,False
+MET-00704,USR-014,2026-09-24,Team Lead,Calidad,8.3,15,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.767,Bajo,0,False
+MET-00734,USR-014,2026-09-25,Team Lead,Calidad,7.7,15,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.548,Medio,0,False
+MET-00764,USR-014,2026-09-26,Team Lead,Calidad,11.4,18,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.879,Burnout Inminente,1,False
+MET-00794,USR-014,2026-09-27,Team Lead,Calidad,7.4,7,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.008,Medio,0,False
+MET-00824,USR-014,2026-09-28,Team Lead,Calidad,8.0,6,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.426,Bajo,0,False
+MET-00854,USR-014,2026-09-29,Team Lead,Calidad,8.3,8,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.594,Bajo,0,False
+MET-00884,USR-014,2026-09-30,Team Lead,Calidad,11.6,21,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.511,Burnout Inminente,1,False
+MET-00914,USR-014,2026-10-01,Team Lead,Calidad,10.4,14,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.34,Alto,2,False
+MET-00944,USR-014,2026-10-02,Team Lead,Calidad,6.7,5,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.705,Bajo,0,False
+MET-00974,USR-014,2026-10-03,Team Lead,Calidad,9.2,11,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.2,Alto,1,False
+MET-01004,USR-014,2026-10-04,Team Lead,Calidad,9.1,13,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.547,Alto,2,False
+MET-01034,USR-014,2026-10-05,Team Lead,Calidad,7.9,10,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.55,Bajo,0,False
+MET-01064,USR-014,2026-10-06,Team Lead,Calidad,11.9,9,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.595,Burnout Inminente,1,False
+MET-01094,USR-014,2026-10-07,Team Lead,Calidad,7.6,15,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.342,Medio,0,False
+MET-01124,USR-014,2026-10-08,Team Lead,Calidad,9.4,17,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.051,Alto,1,False
+MET-01154,USR-014,2026-10-09,Team Lead,Calidad,13.1,8,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.796,Burnout Inminente,2,False
+MET-01184,USR-014,2026-10-10,Team Lead,Calidad,10.7,10,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.606,Burnout Inminente,3,True
+MET-00015,USR-015,2026-09-01,QA,Calidad,6.7,11,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.796,Bajo,0,False
+MET-00045,USR-015,2026-09-02,QA,Calidad,10.0,12,9,Se acumularon tickets y tuve que extender mi jornada.,0.178,Alto,1,False
+MET-00075,USR-015,2026-09-03,QA,Calidad,12.6,13,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.656,Burnout Inminente,2,False
+MET-00105,USR-015,2026-09-04,QA,Calidad,9.6,16,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.197,Medio,0,False
+MET-00135,USR-015,2026-09-05,QA,Calidad,7.8,15,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.036,Medio,0,False
+MET-00165,USR-015,2026-09-06,QA,Calidad,10.0,14,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.452,Alto,1,False
+MET-00195,USR-015,2026-09-07,QA,Calidad,9.3,13,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.283,Alto,2,False
+MET-00225,USR-015,2026-09-08,QA,Calidad,11.5,15,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.873,Burnout Inminente,3,True
+MET-00255,USR-015,2026-09-09,QA,Calidad,9.4,11,7,Se acumularon tickets y tuve que extender mi jornada.,-0.327,Alto,4,True
+MET-00285,USR-015,2026-09-10,QA,Calidad,9.3,13,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.355,Medio,0,False
+MET-00315,USR-015,2026-09-11,QA,Calidad,13.4,4,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.758,Burnout Inminente,1,False
+MET-00345,USR-015,2026-09-12,QA,Calidad,9.4,10,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.018,Alto,2,False
+MET-00375,USR-015,2026-09-13,QA,Calidad,9.9,15,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.328,Medio,0,False
+MET-00405,USR-015,2026-09-14,QA,Calidad,10.3,11,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.167,Alto,1,False
+MET-00435,USR-015,2026-09-15,QA,Calidad,7.6,15,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.608,Medio,0,False
+MET-00465,USR-015,2026-09-16,QA,Calidad,8.1,11,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.667,Bajo,0,False
+MET-00495,USR-015,2026-09-17,QA,Calidad,12.8,3,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.689,Burnout Inminente,1,False
+MET-00525,USR-015,2026-09-18,QA,Calidad,8.9,5,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.384,Medio,0,False
+MET-00555,USR-015,2026-09-19,QA,Calidad,6.9,16,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.576,Bajo,0,False
+MET-00585,USR-015,2026-09-20,QA,Calidad,7.5,10,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.501,Bajo,0,False
+MET-00615,USR-015,2026-09-21,QA,Calidad,6.8,11,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.705,Bajo,0,False
+MET-00645,USR-015,2026-09-22,QA,Calidad,13.2,10,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.486,Burnout Inminente,1,False
+MET-00675,USR-015,2026-09-23,QA,Calidad,11.0,16,7,Se acumularon tickets y tuve que extender mi jornada.,-0.128,Alto,2,False
+MET-00705,USR-015,2026-09-24,QA,Calidad,12.2,10,9,"No puedo sostener este ritmo, estoy completamente saturado.",-1.0,Burnout Inminente,3,True
+MET-00735,USR-015,2026-09-25,QA,Calidad,11.1,0,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.809,Burnout Inminente,4,True
+MET-00765,USR-015,2026-09-26,QA,Calidad,8.0,6,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.081,Medio,0,False
+MET-00795,USR-015,2026-09-27,QA,Calidad,7.3,15,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.309,Medio,0,False
+MET-00825,USR-015,2026-09-28,QA,Calidad,11.6,7,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.17,Alto,1,False
+MET-00855,USR-015,2026-09-29,QA,Calidad,10.8,7,8,Se acumularon tickets y tuve que extender mi jornada.,-0.537,Alto,2,False
+MET-00885,USR-015,2026-09-30,QA,Calidad,10.6,13,7,Se acumularon tickets y tuve que extender mi jornada.,-0.455,Alto,3,True
+MET-00915,USR-015,2026-10-01,QA,Calidad,8.4,12,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.733,Medio,0,False
+MET-00945,USR-015,2026-10-02,QA,Calidad,7.0,3,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.158,Medio,0,False
+MET-00975,USR-015,2026-10-03,QA,Calidad,8.1,11,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.688,Bajo,0,False
+MET-01005,USR-015,2026-10-04,QA,Calidad,11.2,5,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.763,Burnout Inminente,1,False
+MET-01035,USR-015,2026-10-05,QA,Calidad,11.6,13,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.749,Burnout Inminente,2,False
+MET-01065,USR-015,2026-10-06,QA,Calidad,6.7,10,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.46,Bajo,0,False
+MET-01095,USR-015,2026-10-07,QA,Calidad,8.0,14,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.591,Alto,1,False
+MET-01125,USR-015,2026-10-08,QA,Calidad,6.7,3,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.405,Bajo,0,False
+MET-01155,USR-015,2026-10-09,QA,Calidad,12.8,8,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.766,Burnout Inminente,1,False
+MET-01185,USR-015,2026-10-10,QA,Calidad,7.8,6,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.355,Medio,0,False
+MET-00016,USR-016,2026-09-01,DevOps,DevOps,11.2,1,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.929,Burnout Inminente,1,False
+MET-00046,USR-016,2026-09-02,DevOps,DevOps,10.6,8,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.314,Alto,2,False
+MET-00076,USR-016,2026-09-03,DevOps,DevOps,9.2,17,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.286,Alto,3,True
+MET-00106,USR-016,2026-09-04,DevOps,DevOps,9.9,10,7,El volumen de tickets fue algo alto y terminé un poco cansado.,0.423,Medio,0,False
+MET-00136,USR-016,2026-09-05,DevOps,DevOps,9.0,13,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.54,Medio,0,False
+MET-00166,USR-016,2026-09-06,DevOps,DevOps,8.0,11,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.044,Medio,0,False
+MET-00196,USR-016,2026-09-07,DevOps,DevOps,10.2,15,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.286,Alto,1,False
+MET-00226,USR-016,2026-09-08,DevOps,DevOps,12.1,8,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.558,Burnout Inminente,2,False
+MET-00256,USR-016,2026-09-09,DevOps,DevOps,7.5,10,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",1.0,Bajo,0,False
+MET-00286,USR-016,2026-09-10,DevOps,DevOps,7.0,10,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.643,Bajo,0,False
+MET-00316,USR-016,2026-09-11,DevOps,DevOps,10.5,16,8,Se acumularon tickets y tuve que extender mi jornada.,-0.623,Alto,1,False
+MET-00346,USR-016,2026-09-12,DevOps,DevOps,12.4,21,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.841,Burnout Inminente,2,False
+MET-00376,USR-016,2026-09-13,DevOps,DevOps,9.0,8,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.179,Medio,0,False
+MET-00406,USR-016,2026-09-14,DevOps,DevOps,10.1,18,7,Se acumularon tickets y tuve que extender mi jornada.,-0.567,Alto,1,False
+MET-00436,USR-016,2026-09-15,DevOps,DevOps,7.1,10,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.829,Bajo,0,False
+MET-00466,USR-016,2026-09-16,DevOps,DevOps,7.1,12,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.305,Bajo,0,False
+MET-00496,USR-016,2026-09-17,DevOps,DevOps,7.7,8,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.396,Medio,0,False
+MET-00526,USR-016,2026-09-18,DevOps,DevOps,8.7,8,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.461,Medio,0,False
+MET-00556,USR-016,2026-09-19,DevOps,DevOps,7.0,12,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.587,Bajo,0,False
+MET-00586,USR-016,2026-09-20,DevOps,DevOps,12.4,11,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.829,Burnout Inminente,1,False
+MET-00616,USR-016,2026-09-21,DevOps,DevOps,8.5,13,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.129,Medio,0,False
+MET-00646,USR-016,2026-09-22,DevOps,DevOps,10.4,13,8,Se acumularon tickets y tuve que extender mi jornada.,-0.151,Alto,1,False
+MET-00676,USR-016,2026-09-23,DevOps,DevOps,8.7,19,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.436,Medio,0,False
+MET-00706,USR-016,2026-09-24,DevOps,DevOps,9.7,13,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.729,Alto,1,False
+MET-00736,USR-016,2026-09-25,DevOps,DevOps,9.1,14,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.132,Medio,0,False
+MET-00766,USR-016,2026-09-26,DevOps,DevOps,8.6,11,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.048,Medio,0,False
+MET-00796,USR-016,2026-09-27,DevOps,DevOps,7.8,7,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.56,Bajo,0,False
+MET-00826,USR-016,2026-09-28,DevOps,DevOps,7.4,11,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.435,Bajo,0,False
+MET-00856,USR-016,2026-09-29,DevOps,DevOps,6.8,11,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.695,Bajo,0,False
+MET-00886,USR-016,2026-09-30,DevOps,DevOps,10.3,17,9,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.657,Alto,1,False
+MET-00916,USR-016,2026-10-01,DevOps,DevOps,9.7,15,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.351,Alto,2,False
+MET-00946,USR-016,2026-10-02,DevOps,DevOps,11.5,2,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.926,Burnout Inminente,3,True
+MET-00976,USR-016,2026-10-03,DevOps,DevOps,6.8,15,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.45,Bajo,0,False
+MET-01006,USR-016,2026-10-04,DevOps,DevOps,13.9,0,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.632,Burnout Inminente,1,False
+MET-01036,USR-016,2026-10-05,DevOps,DevOps,7.6,11,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.676,Bajo,0,False
+MET-01066,USR-016,2026-10-06,DevOps,DevOps,9.1,14,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.107,Medio,0,False
+MET-01096,USR-016,2026-10-07,DevOps,DevOps,11.9,4,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.72,Burnout Inminente,1,False
+MET-01126,USR-016,2026-10-08,DevOps,DevOps,10.7,0,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.688,Burnout Inminente,2,False
+MET-01156,USR-016,2026-10-09,DevOps,DevOps,6.9,7,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.759,Bajo,0,False
+MET-01186,USR-016,2026-10-10,DevOps,DevOps,10.5,13,8,Se acumularon tickets y tuve que extender mi jornada.,-0.329,Alto,1,False
+MET-00017,USR-017,2026-09-01,Dev,Desarrollo,10.8,13,9,Se acumularon tickets y tuve que extender mi jornada.,-0.199,Alto,1,False
+MET-00047,USR-017,2026-09-02,Dev,Desarrollo,8.2,13,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.162,Medio,0,False
+MET-00077,USR-017,2026-09-03,Dev,Desarrollo,8.4,16,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.032,Medio,0,False
+MET-00107,USR-017,2026-09-04,Dev,Desarrollo,7.6,7,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.743,Bajo,0,False
+MET-00137,USR-017,2026-09-05,Dev,Desarrollo,5.6,12,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.583,Bajo,0,False
+MET-00167,USR-017,2026-09-06,Dev,Desarrollo,6.7,9,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.891,Bajo,0,False
+MET-00197,USR-017,2026-09-07,Dev,Desarrollo,12.3,13,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.681,Burnout Inminente,1,False
+MET-00227,USR-017,2026-09-08,Dev,Desarrollo,10.2,6,8,Se acumularon tickets y tuve que extender mi jornada.,-0.256,Alto,2,False
+MET-00257,USR-017,2026-09-09,Dev,Desarrollo,13.4,8,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.732,Burnout Inminente,3,True
+MET-00287,USR-017,2026-09-10,Dev,Desarrollo,9.8,8,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.737,Alto,4,True
+MET-00317,USR-017,2026-09-11,Dev,Desarrollo,7.3,10,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.457,Bajo,0,False
+MET-00347,USR-017,2026-09-12,Dev,Desarrollo,12.4,16,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.516,Burnout Inminente,1,False
+MET-00377,USR-017,2026-09-13,Dev,Desarrollo,11.5,12,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.607,Burnout Inminente,2,False
+MET-00407,USR-017,2026-09-14,Dev,Desarrollo,9.8,9,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.5,Medio,0,False
+MET-00437,USR-017,2026-09-15,Dev,Desarrollo,6.6,13,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.71,Bajo,0,False
+MET-00467,USR-017,2026-09-16,Dev,Desarrollo,8.0,13,1,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.823,Bajo,0,False
+MET-00497,USR-017,2026-09-17,Dev,Desarrollo,10.9,17,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.306,Alto,1,False
+MET-00527,USR-017,2026-09-18,Dev,Desarrollo,8.9,8,9,Se acumularon tickets y tuve que extender mi jornada.,-0.28,Alto,2,False
+MET-00557,USR-017,2026-09-19,Dev,Desarrollo,11.1,17,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.84,Burnout Inminente,3,True
+MET-00587,USR-017,2026-09-20,Dev,Desarrollo,8.0,11,9,Se acumularon tickets y tuve que extender mi jornada.,-0.61,Alto,4,True
+MET-00617,USR-017,2026-09-21,Dev,Desarrollo,9.1,8,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.189,Medio,0,False
+MET-00647,USR-017,2026-09-22,Dev,Desarrollo,7.9,6,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.583,Bajo,0,False
+MET-00677,USR-017,2026-09-23,Dev,Desarrollo,8.6,12,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.186,Medio,0,False
+MET-00707,USR-017,2026-09-24,Dev,Desarrollo,11.6,15,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.759,Burnout Inminente,1,False
+MET-00737,USR-017,2026-09-25,Dev,Desarrollo,12.0,9,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-1.0,Burnout Inminente,2,False
+MET-00767,USR-017,2026-09-26,Dev,Desarrollo,10.2,19,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.747,Burnout Inminente,3,True
+MET-00797,USR-017,2026-09-27,Dev,Desarrollo,9.3,7,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.223,Alto,4,True
+MET-00827,USR-017,2026-09-28,Dev,Desarrollo,7.9,12,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.685,Bajo,0,False
+MET-00857,USR-017,2026-09-29,Dev,Desarrollo,9.9,10,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.542,Burnout Inminente,1,False
+MET-00887,USR-017,2026-09-30,Dev,Desarrollo,8.1,12,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.884,Bajo,0,False
+MET-00917,USR-017,2026-10-01,Dev,Desarrollo,9.3,14,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.328,Medio,0,False
+MET-00947,USR-017,2026-10-02,Dev,Desarrollo,7.5,11,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.461,Bajo,0,False
+MET-00977,USR-017,2026-10-03,Dev,Desarrollo,11.5,20,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.729,Alto,1,False
+MET-01007,USR-017,2026-10-04,Dev,Desarrollo,9.4,9,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.477,Alto,2,False
+MET-01037,USR-017,2026-10-05,Dev,Desarrollo,7.3,13,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.156,Medio,0,False
+MET-01067,USR-017,2026-10-06,Dev,Desarrollo,11.6,10,9,"No puedo sostener este ritmo, estoy completamente saturado.",-1.0,Burnout Inminente,1,False
+MET-01097,USR-017,2026-10-07,Dev,Desarrollo,11.1,4,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.965,Burnout Inminente,2,False
+MET-01127,USR-017,2026-10-08,Dev,Desarrollo,8.2,14,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.246,Medio,0,False
+MET-01157,USR-017,2026-10-09,Dev,Desarrollo,12.1,4,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.86,Burnout Inminente,1,False
+MET-01187,USR-017,2026-10-10,Dev,Desarrollo,13.3,9,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.913,Burnout Inminente,2,False
+MET-00018,USR-018,2026-09-01,Team Lead,Desarrollo,12.1,10,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.519,Burnout Inminente,1,False
+MET-00048,USR-018,2026-09-02,Team Lead,Desarrollo,6.6,9,1,Las tareas estuvieron organizadas y pude hacer pausas.,0.774,Bajo,0,False
+MET-00078,USR-018,2026-09-03,Team Lead,Desarrollo,7.6,9,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.818,Bajo,0,False
+MET-00108,USR-018,2026-09-04,Team Lead,Desarrollo,11.0,7,6,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.869,Alto,1,False
+MET-00138,USR-018,2026-09-05,Team Lead,Desarrollo,7.4,10,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.592,Bajo,0,False
+MET-00168,USR-018,2026-09-06,Team Lead,Desarrollo,5.5,14,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.247,Bajo,0,False
+MET-00198,USR-018,2026-09-07,Team Lead,Desarrollo,9.9,15,6,Se acumularon tickets y tuve que extender mi jornada.,-0.374,Alto,1,False
+MET-00228,USR-018,2026-09-08,Team Lead,Desarrollo,10.6,11,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.372,Alto,2,False
+MET-00258,USR-018,2026-09-09,Team Lead,Desarrollo,10.6,12,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.787,Alto,3,True
+MET-00288,USR-018,2026-09-10,Team Lead,Desarrollo,11.5,8,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.894,Alto,4,True
+MET-00318,USR-018,2026-09-11,Team Lead,Desarrollo,6.7,13,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.73,Bajo,0,False
+MET-00348,USR-018,2026-09-12,Team Lead,Desarrollo,8.4,13,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.011,Medio,0,False
+MET-00378,USR-018,2026-09-13,Team Lead,Desarrollo,7.3,7,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.585,Bajo,0,False
+MET-00408,USR-018,2026-09-14,Team Lead,Desarrollo,7.2,11,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.468,Bajo,0,False
+MET-00438,USR-018,2026-09-15,Team Lead,Desarrollo,11.9,0,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.648,Burnout Inminente,1,False
+MET-00468,USR-018,2026-09-16,Team Lead,Desarrollo,9.0,7,7,Se acumularon tickets y tuve que extender mi jornada.,-0.467,Alto,2,False
+MET-00498,USR-018,2026-09-17,Team Lead,Desarrollo,7.9,14,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.369,Medio,0,False
+MET-00528,USR-018,2026-09-18,Team Lead,Desarrollo,7.0,8,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.591,Bajo,0,False
+MET-00558,USR-018,2026-09-19,Team Lead,Desarrollo,9.8,4,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.631,Burnout Inminente,1,False
+MET-00588,USR-018,2026-09-20,Team Lead,Desarrollo,8.9,15,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.334,Medio,0,False
+MET-00618,USR-018,2026-09-21,Team Lead,Desarrollo,12.4,14,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.395,Burnout Inminente,1,False
+MET-00648,USR-018,2026-09-22,Team Lead,Desarrollo,7.8,16,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.066,Medio,0,False
+MET-00678,USR-018,2026-09-23,Team Lead,Desarrollo,7.0,8,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.896,Bajo,0,False
+MET-00708,USR-018,2026-09-24,Team Lead,Desarrollo,12.7,0,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.889,Burnout Inminente,1,False
+MET-00738,USR-018,2026-09-25,Team Lead,Desarrollo,8.3,16,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.374,Medio,0,False
+MET-00768,USR-018,2026-09-26,Team Lead,Desarrollo,8.6,6,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.606,Medio,0,False
+MET-00798,USR-018,2026-09-27,Team Lead,Desarrollo,7.8,9,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.748,Bajo,0,False
+MET-00828,USR-018,2026-09-28,Team Lead,Desarrollo,13.5,1,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.683,Burnout Inminente,1,False
+MET-00858,USR-018,2026-09-29,Team Lead,Desarrollo,12.1,11,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.548,Burnout Inminente,2,False
+MET-00888,USR-018,2026-09-30,Team Lead,Desarrollo,7.6,9,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.212,Medio,0,False
+MET-00918,USR-018,2026-10-01,Team Lead,Desarrollo,11.6,14,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.619,Burnout Inminente,1,False
+MET-00948,USR-018,2026-10-02,Team Lead,Desarrollo,11.9,12,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.812,Burnout Inminente,2,False
+MET-00978,USR-018,2026-10-03,Team Lead,Desarrollo,7.6,6,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.659,Bajo,0,False
+MET-01008,USR-018,2026-10-04,Team Lead,Desarrollo,13.3,13,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.962,Burnout Inminente,1,False
+MET-01038,USR-018,2026-10-05,Team Lead,Desarrollo,11.2,8,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.581,Burnout Inminente,2,False
+MET-01068,USR-018,2026-10-06,Team Lead,Desarrollo,7.6,10,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.049,Medio,0,False
+MET-01098,USR-018,2026-10-07,Team Lead,Desarrollo,8.5,13,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.385,Medio,0,False
+MET-01128,USR-018,2026-10-08,Team Lead,Desarrollo,12.4,1,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.591,Burnout Inminente,1,False
+MET-01158,USR-018,2026-10-09,Team Lead,Desarrollo,11.0,5,8,Se acumularon tickets y tuve que extender mi jornada.,-0.539,Alto,2,False
+MET-01188,USR-018,2026-10-10,Team Lead,Desarrollo,7.7,15,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.116,Medio,0,False
+MET-00019,USR-019,2026-09-01,QA,Calidad,10.0,0,9,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.239,Alto,1,False
+MET-00049,USR-019,2026-09-02,QA,Calidad,10.2,14,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.335,Alto,2,False
+MET-00079,USR-019,2026-09-03,QA,Calidad,12.5,16,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.747,Burnout Inminente,3,True
+MET-00109,USR-019,2026-09-04,QA,Calidad,8.2,17,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.199,Medio,0,False
+MET-00139,USR-019,2026-09-05,QA,Calidad,8.0,11,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.546,Bajo,0,False
+MET-00169,USR-019,2026-09-06,QA,Calidad,8.1,5,5,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.014,Medio,0,False
+MET-00199,USR-019,2026-09-07,QA,Calidad,12.0,2,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.592,Burnout Inminente,1,False
+MET-00229,USR-019,2026-09-08,QA,Calidad,11.9,7,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.708,Burnout Inminente,2,False
+MET-00259,USR-019,2026-09-09,QA,Calidad,10.4,11,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.074,Alto,3,True
+MET-00289,USR-019,2026-09-10,QA,Calidad,11.1,18,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.599,Burnout Inminente,4,True
+MET-00319,USR-019,2026-09-11,QA,Calidad,6.5,14,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.646,Bajo,0,False
+MET-00349,USR-019,2026-09-12,QA,Calidad,8.3,9,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.653,Bajo,0,False
+MET-00379,USR-019,2026-09-13,QA,Calidad,7.9,11,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.15,Medio,0,False
+MET-00409,USR-019,2026-09-14,QA,Calidad,7.9,10,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.079,Medio,0,False
+MET-00439,USR-019,2026-09-15,QA,Calidad,11.0,11,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.544,Burnout Inminente,1,False
+MET-00469,USR-019,2026-09-16,QA,Calidad,9.7,20,8,Se acumularon tickets y tuve que extender mi jornada.,-0.113,Alto,2,False
+MET-00499,USR-019,2026-09-17,QA,Calidad,8.0,11,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.813,Bajo,0,False
+MET-00529,USR-019,2026-09-18,QA,Calidad,10.0,17,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.533,Alto,1,False
+MET-00559,USR-019,2026-09-19,QA,Calidad,9.7,1,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.64,Burnout Inminente,2,False
+MET-00589,USR-019,2026-09-20,QA,Calidad,7.6,14,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.667,Bajo,0,False
+MET-00619,USR-019,2026-09-21,QA,Calidad,10.9,10,8,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.642,Burnout Inminente,1,False
+MET-00649,USR-019,2026-09-22,QA,Calidad,11.7,13,9,"No puedo sostener este ritmo, estoy completamente saturado.",-1.0,Burnout Inminente,2,False
+MET-00679,USR-019,2026-09-23,QA,Calidad,8.8,12,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.345,Medio,0,False
+MET-00709,USR-019,2026-09-24,QA,Calidad,11.5,12,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.486,Alto,1,False
+MET-00739,USR-019,2026-09-25,QA,Calidad,10.4,8,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.036,Alto,2,False
+MET-00769,USR-019,2026-09-26,QA,Calidad,10.2,9,9,La carga de trabajo fue elevada y terminé bastante agotado.,-0.02,Alto,3,True
+MET-00799,USR-019,2026-09-27,QA,Calidad,14.0,0,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-1.0,Burnout Inminente,4,True
+MET-00829,USR-019,2026-09-28,QA,Calidad,12.0,11,7,Se acumularon tickets y tuve que extender mi jornada.,-0.328,Alto,5,True
+MET-00859,USR-019,2026-09-29,QA,Calidad,8.8,20,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.402,Medio,0,False
+MET-00889,USR-019,2026-09-30,QA,Calidad,10.3,4,10,Se acumularon tickets y tuve que extender mi jornada.,-0.427,Alto,1,False
+MET-00919,USR-019,2026-10-01,QA,Calidad,6.5,10,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.633,Bajo,0,False
+MET-00949,USR-019,2026-10-02,QA,Calidad,10.2,13,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.492,Alto,1,False
+MET-00979,USR-019,2026-10-03,QA,Calidad,9.2,5,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.157,Medio,0,False
+MET-01009,USR-019,2026-10-04,QA,Calidad,8.9,9,6,Se acumularon tickets y tuve que extender mi jornada.,-0.21,Alto,1,False
+MET-01039,USR-019,2026-10-05,QA,Calidad,11.8,14,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.783,Burnout Inminente,2,False
+MET-01069,USR-019,2026-10-06,QA,Calidad,7.4,3,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.155,Medio,0,False
+MET-01099,USR-019,2026-10-07,QA,Calidad,12.0,13,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.954,Burnout Inminente,1,False
+MET-01129,USR-019,2026-10-08,QA,Calidad,8.0,10,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.048,Medio,0,False
+MET-01159,USR-019,2026-10-09,QA,Calidad,10.4,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-1.0,Alto,1,False
+MET-01189,USR-019,2026-10-10,QA,Calidad,8.2,9,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.254,Medio,0,False
+MET-00020,USR-020,2026-09-01,HR,RRHH,8.5,11,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.317,Medio,0,False
+MET-00050,USR-020,2026-09-02,HR,RRHH,7.7,11,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.106,Medio,0,False
+MET-00080,USR-020,2026-09-03,HR,RRHH,7.6,11,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.597,Bajo,0,False
+MET-00110,USR-020,2026-09-04,HR,RRHH,9.6,4,4,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.166,Medio,0,False
+MET-00140,USR-020,2026-09-05,HR,RRHH,9.5,15,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.513,Alto,1,False
+MET-00170,USR-020,2026-09-06,HR,RRHH,6.5,13,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.849,Bajo,0,False
+MET-00200,USR-020,2026-09-07,HR,RRHH,8.4,11,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.187,Medio,0,False
+MET-00230,USR-020,2026-09-08,HR,RRHH,10.6,11,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.377,Alto,1,False
+MET-00260,USR-020,2026-09-09,HR,RRHH,7.5,12,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.442,Medio,0,False
+MET-00290,USR-020,2026-09-10,HR,RRHH,6.8,13,5,Las tareas estuvieron organizadas y pude hacer pausas.,0.562,Bajo,0,False
+MET-00320,USR-020,2026-09-11,HR,RRHH,14.0,9,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.796,Burnout Inminente,1,False
+MET-00350,USR-020,2026-09-12,HR,RRHH,8.7,19,7,Se acumularon tickets y tuve que extender mi jornada.,-0.565,Alto,2,False
+MET-00380,USR-020,2026-09-13,HR,RRHH,9.5,7,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.644,Medio,0,False
+MET-00410,USR-020,2026-09-14,HR,RRHH,7.7,19,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.087,Medio,0,False
+MET-00440,USR-020,2026-09-15,HR,RRHH,11.6,18,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.553,Burnout Inminente,1,False
+MET-00470,USR-020,2026-09-16,HR,RRHH,9.5,5,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.597,Alto,2,False
+MET-00500,USR-020,2026-09-17,HR,RRHH,11.7,7,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.862,Burnout Inminente,3,True
+MET-00530,USR-020,2026-09-18,HR,RRHH,7.1,2,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.586,Bajo,0,False
+MET-00560,USR-020,2026-09-19,HR,RRHH,7.2,9,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.744,Bajo,0,False
+MET-00590,USR-020,2026-09-20,HR,RRHH,8.1,4,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.282,Medio,0,False
+MET-00620,USR-020,2026-09-21,HR,RRHH,8.2,6,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.353,Medio,0,False
+MET-00650,USR-020,2026-09-22,HR,RRHH,7.9,16,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.057,Medio,0,False
+MET-00680,USR-020,2026-09-23,HR,RRHH,12.3,4,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.731,Burnout Inminente,1,False
+MET-00710,USR-020,2026-09-24,HR,RRHH,11.8,24,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.455,Alto,2,False
+MET-00740,USR-020,2026-09-25,HR,RRHH,9.1,16,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.097,Medio,0,False
+MET-00770,USR-020,2026-09-26,HR,RRHH,9.0,12,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.118,Medio,0,False
+MET-00800,USR-020,2026-09-27,HR,RRHH,7.7,9,1,"Deploy exitoso y equipo coordinado, sin urgencias.",0.699,Bajo,0,False
+MET-00830,USR-020,2026-09-28,HR,RRHH,9.9,19,7,La carga de trabajo fue elevada y terminé bastante agotado.,0.09,Alto,1,False
+MET-00860,USR-020,2026-09-29,HR,RRHH,12.3,0,8,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.706,Burnout Inminente,2,False
+MET-00890,USR-020,2026-09-30,HR,RRHH,7.6,10,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.386,Bajo,0,False
+MET-00920,USR-020,2026-10-01,HR,RRHH,8.5,16,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.159,Medio,0,False
+MET-00950,USR-020,2026-10-02,HR,RRHH,9.8,8,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.643,Alto,1,False
+MET-00980,USR-020,2026-10-03,HR,RRHH,11.6,14,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.759,Burnout Inminente,2,False
+MET-01010,USR-020,2026-10-04,HR,RRHH,12.2,8,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.853,Burnout Inminente,3,True
+MET-01040,USR-020,2026-10-05,HR,RRHH,8.8,8,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.201,Medio,0,False
+MET-01070,USR-020,2026-10-06,HR,RRHH,11.1,8,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.695,Burnout Inminente,1,False
+MET-01100,USR-020,2026-10-07,HR,RRHH,6.6,13,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.79,Bajo,0,False
+MET-01130,USR-020,2026-10-08,HR,RRHH,6.9,11,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.458,Bajo,0,False
+MET-01160,USR-020,2026-10-09,HR,RRHH,10.5,3,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-1.0,Alto,1,False
+MET-01190,USR-020,2026-10-10,HR,RRHH,10.2,4,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.642,Burnout Inminente,2,False
+MET-00021,USR-021,2026-09-01,Dev,Desarrollo,11.5,17,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.828,Burnout Inminente,1,False
+MET-00051,USR-021,2026-09-02,Dev,Desarrollo,12.1,14,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.592,Burnout Inminente,2,False
+MET-00081,USR-021,2026-09-03,Dev,Desarrollo,7.3,8,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.997,Bajo,0,False
+MET-00111,USR-021,2026-09-04,Dev,Desarrollo,7.4,4,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.604,Bajo,0,False
+MET-00141,USR-021,2026-09-05,Dev,Desarrollo,12.0,13,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.799,Burnout Inminente,1,False
+MET-00171,USR-021,2026-09-06,Dev,Desarrollo,10.7,10,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.312,Alto,2,False
+MET-00201,USR-021,2026-09-07,Dev,Desarrollo,9.1,11,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.064,Medio,0,False
+MET-00231,USR-021,2026-09-08,Dev,Desarrollo,12.8,9,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.855,Burnout Inminente,1,False
+MET-00261,USR-021,2026-09-09,Dev,Desarrollo,9.7,15,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.17,Medio,0,False
+MET-00291,USR-021,2026-09-10,Dev,Desarrollo,5.6,6,5,Las tareas estuvieron organizadas y pude hacer pausas.,0.324,Bajo,0,False
+MET-00321,USR-021,2026-09-11,Dev,Desarrollo,7.3,12,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.792,Bajo,0,False
+MET-00351,USR-021,2026-09-12,Dev,Desarrollo,6.5,14,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.749,Bajo,0,False
+MET-00381,USR-021,2026-09-13,Dev,Desarrollo,12.9,7,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.894,Burnout Inminente,1,False
+MET-00411,USR-021,2026-09-14,Dev,Desarrollo,11.7,8,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.682,Burnout Inminente,2,False
+MET-00441,USR-021,2026-09-15,Dev,Desarrollo,13.3,8,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.99,Burnout Inminente,3,True
+MET-00471,USR-021,2026-09-16,Dev,Desarrollo,12.7,1,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.839,Burnout Inminente,4,True
+MET-00501,USR-021,2026-09-17,Dev,Desarrollo,7.9,8,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.103,Medio,0,False
+MET-00531,USR-021,2026-09-18,Dev,Desarrollo,8.3,10,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.573,Bajo,0,False
+MET-00561,USR-021,2026-09-19,Dev,Desarrollo,11.8,20,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.985,Burnout Inminente,1,False
+MET-00591,USR-021,2026-09-20,Dev,Desarrollo,7.6,5,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.458,Medio,0,False
+MET-00621,USR-021,2026-09-21,Dev,Desarrollo,9.4,23,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.589,Alto,1,False
+MET-00651,USR-021,2026-09-22,Dev,Desarrollo,7.0,8,6,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.117,Medio,0,False
+MET-00681,USR-021,2026-09-23,Dev,Desarrollo,9.9,7,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.55,Medio,0,False
+MET-00711,USR-021,2026-09-24,Dev,Desarrollo,8.6,17,4,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.112,Medio,0,False
+MET-00741,USR-021,2026-09-25,Dev,Desarrollo,7.8,9,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.084,Medio,0,False
+MET-00771,USR-021,2026-09-26,Dev,Desarrollo,12.9,0,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.918,Burnout Inminente,1,False
+MET-00801,USR-021,2026-09-27,Dev,Desarrollo,8.5,12,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.5,Medio,0,False
+MET-00831,USR-021,2026-09-28,Dev,Desarrollo,8.5,5,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.244,Medio,0,False
+MET-00861,USR-021,2026-09-29,Dev,Desarrollo,10.1,14,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.071,Alto,1,False
+MET-00891,USR-021,2026-09-30,Dev,Desarrollo,10.2,2,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.157,Alto,2,False
+MET-00921,USR-021,2026-10-01,Dev,Desarrollo,6.5,11,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.841,Bajo,0,False
+MET-00951,USR-021,2026-10-02,Dev,Desarrollo,6.3,6,1,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.649,Bajo,0,False
+MET-00981,USR-021,2026-10-03,Dev,Desarrollo,13.6,6,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.992,Burnout Inminente,1,False
+MET-01011,USR-021,2026-10-04,Dev,Desarrollo,11.9,0,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.705,Burnout Inminente,2,False
+MET-01041,USR-021,2026-10-05,Dev,Desarrollo,11.7,6,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-1.0,Burnout Inminente,3,True
+MET-01071,USR-021,2026-10-06,Dev,Desarrollo,13.8,15,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.604,Burnout Inminente,4,True
+MET-01101,USR-021,2026-10-07,Dev,Desarrollo,7.5,7,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.683,Bajo,0,False
+MET-01131,USR-021,2026-10-08,Dev,Desarrollo,11.2,11,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.439,Burnout Inminente,1,False
+MET-01161,USR-021,2026-10-09,Dev,Desarrollo,9.0,10,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.527,Medio,0,False
+MET-01191,USR-021,2026-10-10,Dev,Desarrollo,7.4,14,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.276,Medio,0,False
+MET-00022,USR-022,2026-09-01,HR,RRHH,7.8,15,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.262,Medio,0,False
+MET-00052,USR-022,2026-09-02,HR,RRHH,7.4,13,4,Hubo cambios de prioridad durante el día y costó concentrarme.,0.308,Medio,0,False
+MET-00082,USR-022,2026-09-03,HR,RRHH,10.7,15,8,"No puedo sostener este ritmo, estoy completamente saturado.",-0.631,Burnout Inminente,1,False
+MET-00112,USR-022,2026-09-04,HR,RRHH,7.4,12,6,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.055,Medio,0,False
+MET-00142,USR-022,2026-09-05,HR,RRHH,9.3,3,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.072,Medio,0,False
+MET-00172,USR-022,2026-09-06,HR,RRHH,10.5,7,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.806,Burnout Inminente,1,False
+MET-00202,USR-022,2026-09-07,HR,RRHH,8.1,12,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.06,Medio,0,False
+MET-00232,USR-022,2026-09-08,HR,RRHH,11.1,10,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.337,Alto,1,False
+MET-00262,USR-022,2026-09-09,HR,RRHH,9.8,16,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.767,Alto,2,False
+MET-00292,USR-022,2026-09-10,HR,RRHH,9.2,17,7,Hubo cambios de prioridad durante el día y costó concentrarme.,0.321,Medio,0,False
+MET-00322,USR-022,2026-09-11,HR,RRHH,9.3,4,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.308,Alto,1,False
+MET-00352,USR-022,2026-09-12,HR,RRHH,9.1,5,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.555,Medio,0,False
+MET-00382,USR-022,2026-09-13,HR,RRHH,7.0,16,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.898,Bajo,0,False
+MET-00412,USR-022,2026-09-14,HR,RRHH,6.5,9,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.797,Bajo,0,False
+MET-00442,USR-022,2026-09-15,HR,RRHH,8.2,20,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.136,Medio,0,False
+MET-00472,USR-022,2026-09-16,HR,RRHH,7.2,8,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.696,Bajo,0,False
+MET-00502,USR-022,2026-09-17,HR,RRHH,6.0,10,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.473,Bajo,0,False
+MET-00532,USR-022,2026-09-18,HR,RRHH,10.0,7,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.175,Alto,1,False
+MET-00562,USR-022,2026-09-19,HR,RRHH,8.3,7,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.381,Bajo,0,False
+MET-00592,USR-022,2026-09-20,HR,RRHH,11.1,5,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-1.0,Burnout Inminente,1,False
+MET-00622,USR-022,2026-09-21,HR,RRHH,11.2,6,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.757,Burnout Inminente,2,False
+MET-00652,USR-022,2026-09-22,HR,RRHH,9.4,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.905,Alto,3,True
+MET-00682,USR-022,2026-09-23,HR,RRHH,9.9,15,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.515,Medio,0,False
+MET-00712,USR-022,2026-09-24,HR,RRHH,8.6,9,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.029,Medio,0,False
+MET-00742,USR-022,2026-09-25,HR,RRHH,12.9,10,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.836,Burnout Inminente,1,False
+MET-00772,USR-022,2026-09-26,HR,RRHH,9.8,13,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.152,Alto,2,False
+MET-00802,USR-022,2026-09-27,HR,RRHH,7.7,8,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.388,Medio,0,False
+MET-00832,USR-022,2026-09-28,HR,RRHH,9.2,11,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.033,Medio,0,False
+MET-00862,USR-022,2026-09-29,HR,RRHH,8.9,11,4,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.021,Medio,0,False
+MET-00892,USR-022,2026-09-30,HR,RRHH,7.8,11,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.813,Bajo,0,False
+MET-00922,USR-022,2026-10-01,HR,RRHH,12.3,23,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.71,Burnout Inminente,1,False
+MET-00952,USR-022,2026-10-02,HR,RRHH,6.6,10,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.266,Bajo,0,False
+MET-00982,USR-022,2026-10-03,HR,RRHH,8.2,15,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.296,Medio,0,False
+MET-01012,USR-022,2026-10-04,HR,RRHH,9.1,14,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.75,Medio,0,False
+MET-01042,USR-022,2026-10-05,HR,RRHH,6.9,9,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.576,Bajo,0,False
+MET-01072,USR-022,2026-10-06,HR,RRHH,9.3,11,8,Se acumularon tickets y tuve que extender mi jornada.,-0.379,Alto,1,False
+MET-01102,USR-022,2026-10-07,HR,RRHH,11.6,7,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.808,Burnout Inminente,2,False
+MET-01132,USR-022,2026-10-08,HR,RRHH,9.3,5,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.371,Medio,0,False
+MET-01162,USR-022,2026-10-09,HR,RRHH,12.3,0,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.755,Burnout Inminente,1,False
+MET-01192,USR-022,2026-10-10,HR,RRHH,6.6,6,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.575,Bajo,0,False
+MET-00023,USR-023,2026-09-01,Team Lead,Desarrollo,8.0,11,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.422,Medio,0,False
+MET-00053,USR-023,2026-09-02,Team Lead,Desarrollo,10.5,16,10,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.17,Alto,1,False
+MET-00083,USR-023,2026-09-03,Team Lead,Desarrollo,12.3,8,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.885,Burnout Inminente,2,False
+MET-00113,USR-023,2026-09-04,Team Lead,Desarrollo,11.2,8,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.607,Burnout Inminente,3,True
+MET-00143,USR-023,2026-09-05,Team Lead,Desarrollo,6.0,10,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.922,Bajo,0,False
+MET-00173,USR-023,2026-09-06,Team Lead,Desarrollo,8.9,10,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.47,Medio,0,False
+MET-00203,USR-023,2026-09-07,Team Lead,Desarrollo,11.2,12,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.517,Alto,1,False
+MET-00233,USR-023,2026-09-08,Team Lead,Desarrollo,13.3,5,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.468,Burnout Inminente,2,False
+MET-00263,USR-023,2026-09-09,Team Lead,Desarrollo,8.2,8,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.691,Bajo,0,False
+MET-00293,USR-023,2026-09-10,Team Lead,Desarrollo,12.3,13,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.708,Burnout Inminente,1,False
+MET-00323,USR-023,2026-09-11,Team Lead,Desarrollo,10.6,10,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.376,Burnout Inminente,2,False
+MET-00353,USR-023,2026-09-12,Team Lead,Desarrollo,9.7,20,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.298,Alto,3,True
+MET-00383,USR-023,2026-09-13,Team Lead,Desarrollo,11.2,9,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-1.0,Burnout Inminente,4,True
+MET-00413,USR-023,2026-09-14,Team Lead,Desarrollo,9.3,13,7,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.261,Medio,0,False
+MET-00443,USR-023,2026-09-15,Team Lead,Desarrollo,7.3,10,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.925,Bajo,0,False
+MET-00473,USR-023,2026-09-16,Team Lead,Desarrollo,9.5,16,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.419,Alto,1,False
+MET-00503,USR-023,2026-09-17,Team Lead,Desarrollo,8.9,5,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.011,Medio,0,False
+MET-00533,USR-023,2026-09-18,Team Lead,Desarrollo,10.7,15,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.416,Alto,1,False
+MET-00563,USR-023,2026-09-19,Team Lead,Desarrollo,9.8,12,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.088,Alto,2,False
+MET-00593,USR-023,2026-09-20,Team Lead,Desarrollo,6.5,10,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.521,Bajo,0,False
+MET-00623,USR-023,2026-09-21,Team Lead,Desarrollo,7.2,10,1,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.496,Bajo,0,False
+MET-00653,USR-023,2026-09-22,Team Lead,Desarrollo,9.1,14,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.104,Medio,0,False
+MET-00683,USR-023,2026-09-23,Team Lead,Desarrollo,11.0,15,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.497,Burnout Inminente,1,False
+MET-00713,USR-023,2026-09-24,Team Lead,Desarrollo,9.4,10,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.237,Alto,2,False
+MET-00743,USR-023,2026-09-25,Team Lead,Desarrollo,8.3,3,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.435,Alto,3,True
+MET-00773,USR-023,2026-09-26,Team Lead,Desarrollo,6.9,4,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.37,Medio,0,False
+MET-00803,USR-023,2026-09-27,Team Lead,Desarrollo,12.6,15,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.927,Burnout Inminente,1,False
+MET-00833,USR-023,2026-09-28,Team Lead,Desarrollo,9.0,18,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.76,Alto,2,False
+MET-00863,USR-023,2026-09-29,Team Lead,Desarrollo,8.1,9,5,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.134,Medio,0,False
+MET-00893,USR-023,2026-09-30,Team Lead,Desarrollo,7.3,9,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.856,Bajo,0,False
+MET-00923,USR-023,2026-10-01,Team Lead,Desarrollo,13.0,11,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.624,Burnout Inminente,1,False
+MET-00953,USR-023,2026-10-02,Team Lead,Desarrollo,12.4,2,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.687,Burnout Inminente,2,False
+MET-00983,USR-023,2026-10-03,Team Lead,Desarrollo,8.9,16,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.084,Alto,3,True
+MET-01013,USR-023,2026-10-04,Team Lead,Desarrollo,9.9,9,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.38,Alto,4,True
+MET-01043,USR-023,2026-10-05,Team Lead,Desarrollo,12.7,0,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.774,Burnout Inminente,5,True
+MET-01073,USR-023,2026-10-06,Team Lead,Desarrollo,8.2,12,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.543,Bajo,0,False
+MET-01103,USR-023,2026-10-07,Team Lead,Desarrollo,7.6,8,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.609,Bajo,0,False
+MET-01133,USR-023,2026-10-08,Team Lead,Desarrollo,9.9,14,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.212,Alto,1,False
+MET-01163,USR-023,2026-10-09,Team Lead,Desarrollo,10.1,7,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.656,Burnout Inminente,2,False
+MET-01193,USR-023,2026-10-10,Team Lead,Desarrollo,9.2,11,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.064,Medio,0,False
+MET-00024,USR-024,2026-09-01,HR,RRHH,11.0,6,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.97,Burnout Inminente,1,False
+MET-00054,USR-024,2026-09-02,HR,RRHH,9.1,10,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.37,Medio,0,False
+MET-00084,USR-024,2026-09-03,HR,RRHH,10.1,18,7,Se acumularon tickets y tuve que extender mi jornada.,-0.452,Alto,1,False
+MET-00114,USR-024,2026-09-04,HR,RRHH,9.1,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.594,Alto,2,False
+MET-00144,USR-024,2026-09-05,HR,RRHH,10.3,17,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.906,Alto,3,True
+MET-00174,USR-024,2026-09-06,HR,RRHH,10.6,12,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.796,Burnout Inminente,4,True
+MET-00204,USR-024,2026-09-07,HR,RRHH,11.4,18,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.747,Alto,5,True
+MET-00234,USR-024,2026-09-08,HR,RRHH,8.6,15,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.53,Alto,6,True
+MET-00264,USR-024,2026-09-09,HR,RRHH,10.5,10,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.568,Alto,7,True
+MET-00294,USR-024,2026-09-10,HR,RRHH,7.3,8,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.569,Bajo,0,False
+MET-00324,USR-024,2026-09-11,HR,RRHH,11.7,8,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.765,Burnout Inminente,1,False
+MET-00354,USR-024,2026-09-12,HR,RRHH,10.4,10,9,La carga de trabajo fue elevada y terminé bastante agotado.,-0.216,Alto,2,False
+MET-00384,USR-024,2026-09-13,HR,RRHH,10.3,11,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.771,Alto,3,True
+MET-00414,USR-024,2026-09-14,HR,RRHH,7.3,11,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.567,Bajo,0,False
+MET-00444,USR-024,2026-09-15,HR,RRHH,7.9,8,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.15,Medio,0,False
+MET-00474,USR-024,2026-09-16,HR,RRHH,9.6,13,8,Se acumularon tickets y tuve que extender mi jornada.,-0.501,Alto,1,False
+MET-00504,USR-024,2026-09-17,HR,RRHH,10.9,13,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.779,Burnout Inminente,2,False
+MET-00534,USR-024,2026-09-18,HR,RRHH,8.9,10,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.037,Medio,0,False
+MET-00564,USR-024,2026-09-19,HR,RRHH,10.2,0,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.695,Burnout Inminente,1,False
+MET-00594,USR-024,2026-09-20,HR,RRHH,11.9,15,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.533,Burnout Inminente,2,False
+MET-00624,USR-024,2026-09-21,HR,RRHH,6.9,6,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.766,Bajo,0,False
+MET-00654,USR-024,2026-09-22,HR,RRHH,8.2,13,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.347,Medio,0,False
+MET-00684,USR-024,2026-09-23,HR,RRHH,10.5,23,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.537,Alto,1,False
+MET-00714,USR-024,2026-09-24,HR,RRHH,9.0,19,8,Se acumularon tickets y tuve que extender mi jornada.,-0.533,Alto,2,False
+MET-00744,USR-024,2026-09-25,HR,RRHH,6.3,13,5,"Deploy exitoso y equipo coordinado, sin urgencias.",0.639,Bajo,0,False
+MET-00774,USR-024,2026-09-26,HR,RRHH,8.3,8,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.5,Medio,0,False
+MET-00804,USR-024,2026-09-27,HR,RRHH,8.3,12,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.941,Bajo,0,False
+MET-00834,USR-024,2026-09-28,HR,RRHH,9.6,17,6,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.156,Medio,0,False
+MET-00864,USR-024,2026-09-29,HR,RRHH,9.9,0,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,0.032,Alto,1,False
+MET-00894,USR-024,2026-09-30,HR,RRHH,7.4,6,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.672,Bajo,0,False
+MET-00924,USR-024,2026-10-01,HR,RRHH,12.9,13,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.797,Burnout Inminente,1,False
+MET-00954,USR-024,2026-10-02,HR,RRHH,7.8,6,5,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.268,Medio,0,False
+MET-00984,USR-024,2026-10-03,HR,RRHH,12.6,8,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.692,Burnout Inminente,1,False
+MET-01014,USR-024,2026-10-04,HR,RRHH,10.4,8,8,Se acumularon tickets y tuve que extender mi jornada.,-0.375,Alto,2,False
+MET-01044,USR-024,2026-10-05,HR,RRHH,11.2,7,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.676,Burnout Inminente,3,True
+MET-01074,USR-024,2026-10-06,HR,RRHH,6.2,14,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.345,Bajo,0,False
+MET-01104,USR-024,2026-10-07,HR,RRHH,10.6,9,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.659,Burnout Inminente,1,False
+MET-01134,USR-024,2026-10-08,HR,RRHH,10.5,17,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.56,Alto,2,False
+MET-01164,USR-024,2026-10-09,HR,RRHH,8.4,14,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.719,Medio,0,False
+MET-01194,USR-024,2026-10-10,HR,RRHH,8.9,2,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.376,Medio,0,False
+MET-00025,USR-025,2026-09-01,HR,RRHH,12.0,8,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.785,Burnout Inminente,1,False
+MET-00055,USR-025,2026-09-02,HR,RRHH,9.3,11,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.402,Alto,2,False
+MET-00085,USR-025,2026-09-03,HR,RRHH,6.7,11,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.519,Bajo,0,False
+MET-00115,USR-025,2026-09-04,HR,RRHH,8.3,9,4,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.119,Medio,0,False
+MET-00145,USR-025,2026-09-05,HR,RRHH,10.2,6,8,Se acumularon tickets y tuve que extender mi jornada.,-0.168,Alto,1,False
+MET-00175,USR-025,2026-09-06,HR,RRHH,8.6,15,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.134,Medio,0,False
+MET-00205,USR-025,2026-09-07,HR,RRHH,7.4,10,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.812,Bajo,0,False
+MET-00235,USR-025,2026-09-08,HR,RRHH,10.7,9,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.835,Burnout Inminente,1,False
+MET-00265,USR-025,2026-09-09,HR,RRHH,10.0,16,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.502,Alto,2,False
+MET-00295,USR-025,2026-09-10,HR,RRHH,8.4,8,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.663,Alto,3,True
+MET-00325,USR-025,2026-09-11,HR,RRHH,9.1,12,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.26,Medio,0,False
+MET-00355,USR-025,2026-09-12,HR,RRHH,8.4,17,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.307,Medio,0,False
+MET-00385,USR-025,2026-09-13,HR,RRHH,12.2,1,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-1.0,Burnout Inminente,1,False
+MET-00415,USR-025,2026-09-14,HR,RRHH,10.2,8,9,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.169,Alto,2,False
+MET-00445,USR-025,2026-09-15,HR,RRHH,11.1,5,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.854,Burnout Inminente,3,True
+MET-00475,USR-025,2026-09-16,HR,RRHH,11.4,11,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.794,Burnout Inminente,4,True
+MET-00505,USR-025,2026-09-17,HR,RRHH,9.7,16,6,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.693,Alto,5,True
+MET-00535,USR-025,2026-09-18,HR,RRHH,8.5,6,7,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.187,Medio,0,False
+MET-00565,USR-025,2026-09-19,HR,RRHH,7.8,2,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.656,Bajo,0,False
+MET-00595,USR-025,2026-09-20,HR,RRHH,9.7,11,7,Se acumularon tickets y tuve que extender mi jornada.,-0.363,Alto,1,False
+MET-00625,USR-025,2026-09-21,HR,RRHH,11.4,13,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.699,Burnout Inminente,2,False
+MET-00655,USR-025,2026-09-22,HR,RRHH,11.0,11,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.532,Burnout Inminente,3,True
+MET-00685,USR-025,2026-09-23,HR,RRHH,8.1,17,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.393,Medio,0,False
+MET-00715,USR-025,2026-09-24,HR,RRHH,11.0,15,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.721,Burnout Inminente,1,False
+MET-00745,USR-025,2026-09-25,HR,RRHH,13.0,11,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.72,Burnout Inminente,2,False
+MET-00775,USR-025,2026-09-26,HR,RRHH,11.0,12,8,Se acumularon tickets y tuve que extender mi jornada.,-0.292,Alto,3,True
+MET-00805,USR-025,2026-09-27,HR,RRHH,6.1,8,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.75,Bajo,0,False
+MET-00835,USR-025,2026-09-28,HR,RRHH,6.3,12,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.943,Bajo,0,False
+MET-00865,USR-025,2026-09-29,HR,RRHH,7.9,10,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.409,Bajo,0,False
+MET-00895,USR-025,2026-09-30,HR,RRHH,7.8,8,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.087,Medio,0,False
+MET-00925,USR-025,2026-10-01,HR,RRHH,8.0,15,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.124,Medio,0,False
+MET-00955,USR-025,2026-10-02,HR,RRHH,8.1,9,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.116,Medio,0,False
+MET-00985,USR-025,2026-10-03,HR,RRHH,12.9,6,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.866,Burnout Inminente,1,False
+MET-01015,USR-025,2026-10-04,HR,RRHH,13.2,14,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.786,Burnout Inminente,2,False
+MET-01045,USR-025,2026-10-05,HR,RRHH,8.4,18,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.094,Medio,0,False
+MET-01075,USR-025,2026-10-06,HR,RRHH,7.6,7,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.018,Medio,0,False
+MET-01105,USR-025,2026-10-07,HR,RRHH,7.4,9,1,"Deploy exitoso y equipo coordinado, sin urgencias.",0.221,Bajo,0,False
+MET-01135,USR-025,2026-10-08,HR,RRHH,7.3,9,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.758,Bajo,0,False
+MET-01165,USR-025,2026-10-09,HR,RRHH,7.0,11,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.476,Bajo,0,False
+MET-01195,USR-025,2026-10-10,HR,RRHH,10.0,8,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-1.0,Alto,1,False
+MET-00026,USR-026,2026-09-01,HR,RRHH,7.3,10,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.021,Medio,0,False
+MET-00056,USR-026,2026-09-02,HR,RRHH,10.0,14,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.223,Medio,0,False
+MET-00086,USR-026,2026-09-03,HR,RRHH,6.7,11,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.529,Bajo,0,False
+MET-00116,USR-026,2026-09-04,HR,RRHH,11.9,10,8,Se acumularon tickets y tuve que extender mi jornada.,-0.373,Alto,1,False
+MET-00146,USR-026,2026-09-05,HR,RRHH,12.0,12,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.409,Burnout Inminente,2,False
+MET-00176,USR-026,2026-09-06,HR,RRHH,11.2,4,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.961,Burnout Inminente,3,True
+MET-00206,USR-026,2026-09-07,HR,RRHH,8.0,20,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.089,Medio,0,False
+MET-00236,USR-026,2026-09-08,HR,RRHH,7.4,14,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.155,Medio,0,False
+MET-00266,USR-026,2026-09-09,HR,RRHH,10.7,19,6,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.803,Alto,1,False
+MET-00296,USR-026,2026-09-10,HR,RRHH,11.9,14,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.986,Burnout Inminente,2,False
+MET-00326,USR-026,2026-09-11,HR,RRHH,11.0,7,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.863,Burnout Inminente,3,True
+MET-00356,USR-026,2026-09-12,HR,RRHH,7.5,9,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.469,Bajo,0,False
+MET-00386,USR-026,2026-09-13,HR,RRHH,7.2,15,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.538,Bajo,0,False
+MET-00416,USR-026,2026-09-14,HR,RRHH,8.1,4,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.511,Bajo,0,False
+MET-00446,USR-026,2026-09-15,HR,RRHH,6.3,5,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.757,Bajo,0,False
+MET-00476,USR-026,2026-09-16,HR,RRHH,12.4,15,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.695,Burnout Inminente,1,False
+MET-00506,USR-026,2026-09-17,HR,RRHH,11.8,16,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.946,Burnout Inminente,2,False
+MET-00536,USR-026,2026-09-18,HR,RRHH,8.5,12,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.241,Medio,0,False
+MET-00566,USR-026,2026-09-19,HR,RRHH,8.7,16,6,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.088,Medio,0,False
+MET-00596,USR-026,2026-09-20,HR,RRHH,6.6,11,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.611,Bajo,0,False
+MET-00626,USR-026,2026-09-21,HR,RRHH,7.6,9,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.51,Bajo,0,False
+MET-00656,USR-026,2026-09-22,HR,RRHH,8.9,11,6,El volumen de tickets fue algo alto y terminé un poco cansado.,0.533,Medio,0,False
+MET-00686,USR-026,2026-09-23,HR,RRHH,12.1,8,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.666,Burnout Inminente,1,False
+MET-00716,USR-026,2026-09-24,HR,RRHH,9.5,7,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.27,Alto,2,False
+MET-00746,USR-026,2026-09-25,HR,RRHH,10.3,17,9,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.356,Alto,3,True
+MET-00776,USR-026,2026-09-26,HR,RRHH,6.7,15,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.813,Bajo,0,False
+MET-00806,USR-026,2026-09-27,HR,RRHH,7.6,16,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.354,Medio,0,False
+MET-00836,USR-026,2026-09-28,HR,RRHH,10.7,8,8,Se acumularon tickets y tuve que extender mi jornada.,-0.149,Alto,1,False
+MET-00866,USR-026,2026-09-29,HR,RRHH,8.3,10,5,"Deploy exitoso y equipo coordinado, sin urgencias.",0.804,Bajo,0,False
+MET-00896,USR-026,2026-09-30,HR,RRHH,12.0,23,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.689,Alto,1,False
+MET-00926,USR-026,2026-10-01,HR,RRHH,12.8,3,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.876,Burnout Inminente,2,False
+MET-00956,USR-026,2026-10-02,HR,RRHH,8.1,11,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.226,Medio,0,False
+MET-00986,USR-026,2026-10-03,HR,RRHH,8.7,9,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.418,Medio,0,False
+MET-01016,USR-026,2026-10-04,HR,RRHH,7.7,7,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.677,Bajo,0,False
+MET-01046,USR-026,2026-10-05,HR,RRHH,8.6,8,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.034,Medio,0,False
+MET-01076,USR-026,2026-10-06,HR,RRHH,6.9,7,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.747,Bajo,0,False
+MET-01106,USR-026,2026-10-07,HR,RRHH,8.1,14,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.79,Bajo,0,False
+MET-01136,USR-026,2026-10-08,HR,RRHH,9.0,4,9,Hubo incidentes en producción y mucha presión por las entregas.,-0.551,Alto,1,False
+MET-01166,USR-026,2026-10-09,HR,RRHH,9.5,9,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.062,Medio,0,False
+MET-01196,USR-026,2026-10-10,HR,RRHH,10.3,5,8,Se acumularon tickets y tuve que extender mi jornada.,-0.635,Alto,1,False
+MET-00027,USR-027,2026-09-01,Dev,Desarrollo,9.8,22,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.382,Alto,1,False
+MET-00057,USR-027,2026-09-02,Dev,Desarrollo,6.9,10,4,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.426,Bajo,0,False
+MET-00087,USR-027,2026-09-03,Dev,Desarrollo,6.9,6,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.367,Bajo,0,False
+MET-00117,USR-027,2026-09-04,Dev,Desarrollo,9.9,16,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.253,Alto,1,False
+MET-00147,USR-027,2026-09-05,Dev,Desarrollo,11.9,5,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.877,Burnout Inminente,2,False
+MET-00177,USR-027,2026-09-06,Dev,Desarrollo,10.1,0,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.487,Burnout Inminente,3,True
+MET-00207,USR-027,2026-09-07,Dev,Desarrollo,8.1,17,7,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.049,Medio,0,False
+MET-00237,USR-027,2026-09-08,Dev,Desarrollo,8.3,5,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.495,Bajo,0,False
+MET-00267,USR-027,2026-09-09,Dev,Desarrollo,7.0,6,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.829,Bajo,0,False
+MET-00297,USR-027,2026-09-10,Dev,Desarrollo,9.1,8,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.469,Alto,1,False
+MET-00327,USR-027,2026-09-11,Dev,Desarrollo,7.5,10,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.618,Bajo,0,False
+MET-00357,USR-027,2026-09-12,Dev,Desarrollo,6.5,16,1,Las tareas estuvieron organizadas y pude hacer pausas.,0.421,Bajo,0,False
+MET-00387,USR-027,2026-09-13,Dev,Desarrollo,11.1,2,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.705,Burnout Inminente,1,False
+MET-00417,USR-027,2026-09-14,Dev,Desarrollo,13.0,2,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.826,Burnout Inminente,2,False
+MET-00447,USR-027,2026-09-15,Dev,Desarrollo,10.1,11,7,Se acumularon tickets y tuve que extender mi jornada.,-0.585,Alto,3,True
+MET-00477,USR-027,2026-09-16,Dev,Desarrollo,7.1,5,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.417,Bajo,0,False
+MET-00507,USR-027,2026-09-17,Dev,Desarrollo,9.0,19,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.564,Burnout Inminente,1,False
+MET-00537,USR-027,2026-09-18,Dev,Desarrollo,7.1,5,4,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.471,Bajo,0,False
+MET-00567,USR-027,2026-09-19,Dev,Desarrollo,7.6,5,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.678,Bajo,0,False
+MET-00597,USR-027,2026-09-20,Dev,Desarrollo,10.0,12,7,Se acumularon tickets y tuve que extender mi jornada.,-0.623,Alto,1,False
+MET-00627,USR-027,2026-09-21,Dev,Desarrollo,10.6,24,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.563,Burnout Inminente,2,False
+MET-00657,USR-027,2026-09-22,Dev,Desarrollo,12.1,16,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.645,Burnout Inminente,3,True
+MET-00687,USR-027,2026-09-23,Dev,Desarrollo,5.6,11,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.413,Bajo,0,False
+MET-00717,USR-027,2026-09-24,Dev,Desarrollo,10.4,9,7,Se acumularon tickets y tuve que extender mi jornada.,-0.615,Alto,1,False
+MET-00747,USR-027,2026-09-25,Dev,Desarrollo,10.0,7,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.736,Burnout Inminente,2,False
+MET-00777,USR-027,2026-09-26,Dev,Desarrollo,11.0,0,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.664,Burnout Inminente,3,True
+MET-00807,USR-027,2026-09-27,Dev,Desarrollo,12.0,3,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.563,Burnout Inminente,4,True
+MET-00837,USR-027,2026-09-28,Dev,Desarrollo,6.6,9,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.906,Bajo,0,False
+MET-00867,USR-027,2026-09-29,Dev,Desarrollo,10.2,11,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.391,Alto,1,False
+MET-00897,USR-027,2026-09-30,Dev,Desarrollo,7.2,8,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.455,Bajo,0,False
+MET-00927,USR-027,2026-10-01,Dev,Desarrollo,11.6,5,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.547,Burnout Inminente,1,False
+MET-00957,USR-027,2026-10-02,Dev,Desarrollo,9.4,7,9,Se acumularon tickets y tuve que extender mi jornada.,-0.313,Alto,2,False
+MET-00987,USR-027,2026-10-03,Dev,Desarrollo,8.1,13,6,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.287,Medio,0,False
+MET-01017,USR-027,2026-10-04,Dev,Desarrollo,7.7,12,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.254,Medio,0,False
+MET-01047,USR-027,2026-10-05,Dev,Desarrollo,6.9,17,3,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.491,Bajo,0,False
+MET-01077,USR-027,2026-10-06,Dev,Desarrollo,6.4,8,1,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.752,Bajo,0,False
+MET-01107,USR-027,2026-10-07,Dev,Desarrollo,7.7,12,4,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.031,Medio,0,False
+MET-01137,USR-027,2026-10-08,Dev,Desarrollo,12.1,7,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.759,Burnout Inminente,1,False
+MET-01167,USR-027,2026-10-09,Dev,Desarrollo,7.7,8,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.92,Bajo,0,False
+MET-01197,USR-027,2026-10-10,Dev,Desarrollo,10.0,14,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.017,Medio,0,False
+MET-00028,USR-028,2026-09-01,DevOps,DevOps,10.2,3,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.426,Alto,1,False
+MET-00058,USR-028,2026-09-02,DevOps,DevOps,11.0,4,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.718,Burnout Inminente,2,False
+MET-00088,USR-028,2026-09-03,DevOps,DevOps,11.0,10,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.529,Burnout Inminente,3,True
+MET-00118,USR-028,2026-09-04,DevOps,DevOps,6.9,9,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.206,Bajo,0,False
+MET-00148,USR-028,2026-09-05,DevOps,DevOps,10.8,13,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.525,Alto,1,False
+MET-00178,USR-028,2026-09-06,DevOps,DevOps,6.8,12,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.156,Medio,0,False
+MET-00208,USR-028,2026-09-07,DevOps,DevOps,11.3,0,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.888,Burnout Inminente,1,False
+MET-00238,USR-028,2026-09-08,DevOps,DevOps,10.0,12,8,Se acumularon tickets y tuve que extender mi jornada.,-0.343,Alto,2,False
+MET-00268,USR-028,2026-09-09,DevOps,DevOps,6.9,10,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.706,Bajo,0,False
+MET-00298,USR-028,2026-09-10,DevOps,DevOps,10.5,14,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.713,Alto,1,False
+MET-00328,USR-028,2026-09-11,DevOps,DevOps,9.2,11,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.384,Medio,0,False
+MET-00358,USR-028,2026-09-12,DevOps,DevOps,9.8,15,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.241,Alto,1,False
+MET-00388,USR-028,2026-09-13,DevOps,DevOps,7.7,10,4,"Deploy exitoso y equipo coordinado, sin urgencias.",0.583,Bajo,0,False
+MET-00418,USR-028,2026-09-14,DevOps,DevOps,12.5,7,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.805,Burnout Inminente,1,False
+MET-00448,USR-028,2026-09-15,DevOps,DevOps,10.3,4,9,Se acumularon tickets y tuve que extender mi jornada.,-0.395,Alto,2,False
+MET-00478,USR-028,2026-09-16,DevOps,DevOps,8.9,22,8,La carga de trabajo fue elevada y terminé bastante agotado.,0.071,Alto,3,True
+MET-00508,USR-028,2026-09-17,DevOps,DevOps,8.6,14,5,El volumen de tickets fue algo alto y terminé un poco cansado.,-0.063,Medio,0,False
+MET-00538,USR-028,2026-09-18,DevOps,DevOps,9.9,12,6,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.054,Alto,1,False
+MET-00568,USR-028,2026-09-19,DevOps,DevOps,9.5,15,8,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.527,Alto,2,False
+MET-00598,USR-028,2026-09-20,DevOps,DevOps,9.1,4,6,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.052,Medio,0,False
+MET-00628,USR-028,2026-09-21,DevOps,DevOps,10.3,11,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.668,Burnout Inminente,1,False
+MET-00658,USR-028,2026-09-22,DevOps,DevOps,11.3,10,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.681,Burnout Inminente,2,False
+MET-00688,USR-028,2026-09-23,DevOps,DevOps,12.1,19,9,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.514,Burnout Inminente,3,True
+MET-00718,USR-028,2026-09-24,DevOps,DevOps,7.5,8,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.703,Bajo,0,False
+MET-00748,USR-028,2026-09-25,DevOps,DevOps,10.6,17,10,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.66,Burnout Inminente,1,False
+MET-00778,USR-028,2026-09-26,DevOps,DevOps,12.2,1,8,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.792,Burnout Inminente,2,False
+MET-00808,USR-028,2026-09-27,DevOps,DevOps,9.0,9,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.326,Medio,0,False
+MET-00838,USR-028,2026-09-28,DevOps,DevOps,10.6,10,8,Se acumularon tickets y tuve que extender mi jornada.,-0.495,Alto,1,False
+MET-00868,USR-028,2026-09-29,DevOps,DevOps,6.9,10,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.605,Bajo,0,False
+MET-00898,USR-028,2026-09-30,DevOps,DevOps,12.9,14,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.659,Burnout Inminente,1,False
+MET-00928,USR-028,2026-10-01,DevOps,DevOps,8.7,5,5,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",-0.149,Medio,0,False
+MET-00958,USR-028,2026-10-02,DevOps,DevOps,12.9,7,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.829,Burnout Inminente,1,False
+MET-00988,USR-028,2026-10-03,DevOps,DevOps,7.0,12,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.47,Bajo,0,False
+MET-01018,USR-028,2026-10-04,DevOps,DevOps,10.5,11,10,"No puedo sostener este ritmo, estoy completamente saturado.",-0.856,Burnout Inminente,1,False
+MET-01048,USR-028,2026-10-05,DevOps,DevOps,9.6,15,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.362,Alto,2,False
+MET-01078,USR-028,2026-10-06,DevOps,DevOps,7.1,10,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.306,Bajo,0,False
+MET-01108,USR-028,2026-10-07,DevOps,DevOps,7.3,5,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.219,Bajo,0,False
+MET-01138,USR-028,2026-10-08,DevOps,DevOps,12.1,16,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.624,Burnout Inminente,1,False
+MET-01168,USR-028,2026-10-09,DevOps,DevOps,10.8,12,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.995,Burnout Inminente,2,False
+MET-01198,USR-028,2026-10-10,DevOps,DevOps,8.0,12,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.508,Alto,3,True
+MET-00029,USR-029,2026-09-01,Dev,Desarrollo,10.1,12,10,La carga de trabajo fue elevada y terminé bastante agotado.,-0.354,Alto,1,False
+MET-00059,USR-029,2026-09-02,Dev,Desarrollo,7.2,16,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.734,Bajo,0,False
+MET-00089,USR-029,2026-09-03,Dev,Desarrollo,10.8,13,8,Se acumularon tickets y tuve que extender mi jornada.,-0.641,Alto,1,False
+MET-00119,USR-029,2026-09-04,Dev,Desarrollo,6.2,15,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.575,Bajo,0,False
+MET-00149,USR-029,2026-09-05,Dev,Desarrollo,10.5,18,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.532,Alto,1,False
+MET-00179,USR-029,2026-09-06,Dev,Desarrollo,8.0,11,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.456,Medio,0,False
+MET-00209,USR-029,2026-09-07,Dev,Desarrollo,6.5,10,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.662,Bajo,0,False
+MET-00239,USR-029,2026-09-08,Dev,Desarrollo,8.8,13,9,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.174,Alto,1,False
+MET-00269,USR-029,2026-09-09,Dev,Desarrollo,11.8,14,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.824,Burnout Inminente,2,False
+MET-00299,USR-029,2026-09-10,Dev,Desarrollo,9.4,5,8,Se acumularon tickets y tuve que extender mi jornada.,-0.323,Alto,3,True
+MET-00329,USR-029,2026-09-11,Dev,Desarrollo,13.1,8,10,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.947,Burnout Inminente,4,True
+MET-00359,USR-029,2026-09-12,Dev,Desarrollo,7.8,9,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.671,Bajo,0,False
+MET-00389,USR-029,2026-09-13,Dev,Desarrollo,6.6,9,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.686,Bajo,0,False
+MET-00419,USR-029,2026-09-14,Dev,Desarrollo,6.9,15,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.562,Bajo,0,False
+MET-00449,USR-029,2026-09-15,Dev,Desarrollo,9.8,14,8,Hubo incidentes en producción y mucha presión por las entregas.,-0.585,Alto,1,False
+MET-00479,USR-029,2026-09-16,Dev,Desarrollo,8.9,4,6,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.044,Medio,0,False
+MET-00509,USR-029,2026-09-17,Dev,Desarrollo,10.5,18,8,La carga de trabajo fue elevada y terminé bastante agotado.,0.187,Alto,1,False
+MET-00539,USR-029,2026-09-18,Dev,Desarrollo,8.4,6,5,El volumen de tickets fue algo alto y terminé un poco cansado.,0.026,Medio,0,False
+MET-00569,USR-029,2026-09-19,Dev,Desarrollo,7.9,7,5,Hubo cambios de prioridad durante el día y costó concentrarme.,-0.091,Medio,0,False
+MET-00599,USR-029,2026-09-20,Dev,Desarrollo,6.2,10,2,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.359,Bajo,0,False
+MET-00629,USR-029,2026-09-21,Dev,Desarrollo,12.2,7,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.701,Burnout Inminente,1,False
+MET-00659,USR-029,2026-09-22,Dev,Desarrollo,7.3,15,3,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.813,Bajo,0,False
+MET-00689,USR-029,2026-09-23,Dev,Desarrollo,6.9,10,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.539,Bajo,0,False
+MET-00719,USR-029,2026-09-24,Dev,Desarrollo,6.8,11,5,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",-0.047,Medio,0,False
+MET-00749,USR-029,2026-09-25,Dev,Desarrollo,10.1,8,8,Se acumularon tickets y tuve que extender mi jornada.,-0.403,Alto,1,False
+MET-00779,USR-029,2026-09-26,Dev,Desarrollo,8.2,13,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.243,Medio,0,False
+MET-00809,USR-029,2026-09-27,Dev,Desarrollo,10.6,0,10,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-0.722,Burnout Inminente,1,False
+MET-00839,USR-029,2026-09-28,Dev,Desarrollo,10.4,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.456,Alto,2,False
+MET-00869,USR-029,2026-09-29,Dev,Desarrollo,10.0,9,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.703,Alto,3,True
+MET-00899,USR-029,2026-09-30,Dev,Desarrollo,14.0,16,8,"La entrega se atrasó, trabajé demasiadas horas y me siento colapsado.",-0.578,Burnout Inminente,4,True
+MET-00929,USR-029,2026-10-01,Dev,Desarrollo,7.4,13,1,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.592,Bajo,0,False
+MET-00959,USR-029,2026-10-02,Dev,Desarrollo,7.9,7,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.548,Bajo,0,False
+MET-00989,USR-029,2026-10-03,Dev,Desarrollo,8.3,8,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.51,Bajo,0,False
+MET-01019,USR-029,2026-10-04,Dev,Desarrollo,6.2,9,3,"Deploy exitoso y equipo coordinado, sin urgencias.",0.64,Bajo,0,False
+MET-01049,USR-029,2026-10-05,Dev,Desarrollo,11.2,1,6,La carga de trabajo fue elevada y terminé bastante agotado.,-0.529,Alto,1,False
+MET-01079,USR-029,2026-10-06,Dev,Desarrollo,8.8,9,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.431,Medio,0,False
+MET-01109,USR-029,2026-10-07,Dev,Desarrollo,8.6,9,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.354,Medio,0,False
+MET-01139,USR-029,2026-10-08,Dev,Desarrollo,7.8,10,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.566,Bajo,0,False
+MET-01169,USR-029,2026-10-09,Dev,Desarrollo,10.5,17,7,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.632,Alto,1,False
+MET-01199,USR-029,2026-10-10,Dev,Desarrollo,11.6,7,9,"Estoy al límite, no logro recuperarme entre jornadas y no doy abasto.",-0.94,Burnout Inminente,2,False
+MET-00030,USR-030,2026-09-01,Dev,Desarrollo,7.2,13,2,Terminé los pendientes sin inconvenientes y con buen ritmo.,0.755,Bajo,0,False
+MET-00060,USR-030,2026-09-02,Dev,Desarrollo,8.1,10,8,La carga de trabajo fue elevada y terminé bastante agotado.,-0.232,Alto,1,False
+MET-00090,USR-030,2026-09-03,Dev,Desarrollo,10.0,15,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.602,Alto,2,False
+MET-00120,USR-030,2026-09-04,Dev,Desarrollo,8.8,22,5,Hubo cambios de prioridad durante el día y costó concentrarme.,0.46,Medio,0,False
+MET-00150,USR-030,2026-09-05,Dev,Desarrollo,8.2,9,4,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.274,Medio,0,False
+MET-00180,USR-030,2026-09-06,Dev,Desarrollo,11.8,6,9,"No puedo sostener este ritmo, estoy completamente saturado.",-0.759,Burnout Inminente,1,False
+MET-00210,USR-030,2026-09-07,Dev,Desarrollo,11.5,18,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.467,Alto,2,False
+MET-00240,USR-030,2026-09-08,Dev,Desarrollo,8.7,13,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.292,Medio,0,False
+MET-00270,USR-030,2026-09-09,Dev,Desarrollo,6.2,15,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.773,Bajo,0,False
+MET-00300,USR-030,2026-09-10,Dev,Desarrollo,10.0,14,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.12,Alto,1,False
+MET-00330,USR-030,2026-09-11,Dev,Desarrollo,9.0,10,7,Hubo incidentes en producción y mucha presión por las entregas.,-0.461,Alto,2,False
+MET-00360,USR-030,2026-09-12,Dev,Desarrollo,7.0,11,4,Las tareas estuvieron organizadas y pude hacer pausas.,0.752,Bajo,0,False
+MET-00390,USR-030,2026-09-13,Dev,Desarrollo,7.8,14,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.571,Bajo,0,False
+MET-00420,USR-030,2026-09-14,Dev,Desarrollo,9.3,15,7,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.072,Medio,0,False
+MET-00450,USR-030,2026-09-15,Dev,Desarrollo,8.2,15,4,"Me quedaron algunas tareas para mañana, necesito ordenar mejor el tiempo.",0.185,Medio,0,False
+MET-00480,USR-030,2026-09-16,Dev,Desarrollo,9.3,12,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.524,Alto,1,False
+MET-00510,USR-030,2026-09-17,Dev,Desarrollo,12.1,8,9,Llevo varios días sin descanso suficiente y me cuesta concentrarme.,-1.0,Burnout Inminente,2,False
+MET-00540,USR-030,2026-09-18,Dev,Desarrollo,7.0,14,3,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.72,Bajo,0,False
+MET-00570,USR-030,2026-09-19,Dev,Desarrollo,12.4,12,9,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.681,Burnout Inminente,1,False
+MET-00600,USR-030,2026-09-20,Dev,Desarrollo,7.7,12,4,El volumen de tickets fue algo alto y terminé un poco cansado.,0.197,Medio,0,False
+MET-00630,USR-030,2026-09-21,Dev,Desarrollo,8.5,10,3,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.033,Medio,0,False
+MET-00660,USR-030,2026-09-22,Dev,Desarrollo,8.5,7,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.279,Medio,0,False
+MET-00690,USR-030,2026-09-23,Dev,Desarrollo,7.3,7,2,"Deploy exitoso y equipo coordinado, sin urgencias.",0.732,Bajo,0,False
+MET-00720,USR-030,2026-09-24,Dev,Desarrollo,6.6,11,2,Las tareas estuvieron organizadas y pude hacer pausas.,0.586,Bajo,0,False
+MET-00750,USR-030,2026-09-25,Dev,Desarrollo,10.2,15,7,Se acumularon tickets y tuve que extender mi jornada.,-0.454,Alto,1,False
+MET-00780,USR-030,2026-09-26,Dev,Desarrollo,7.1,13,2,"Buen día de trabajo, hubo tiempo para revisar y documentar.",0.918,Bajo,0,False
+MET-00810,USR-030,2026-09-27,Dev,Desarrollo,11.0,14,7,"Muchas urgencias y reuniones, casi no pude hacer pausas.",-0.214,Alto,1,False
+MET-00840,USR-030,2026-09-28,Dev,Desarrollo,8.5,13,3,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",-0.065,Medio,0,False
+MET-00870,USR-030,2026-09-29,Dev,Desarrollo,9.1,16,3,Hubo cambios de prioridad durante el día y costó concentrarme.,0.527,Medio,0,False
+MET-00900,USR-030,2026-09-30,Dev,Desarrollo,6.6,11,4,"Jornada tranquila, pude avanzar con las tareas planificadas.",0.579,Bajo,0,False
+MET-00930,USR-030,2026-10-01,Dev,Desarrollo,10.0,10,7,El volumen de tickets fue algo alto y terminé un poco cansado.,0.153,Medio,0,False
+MET-00960,USR-030,2026-10-02,Dev,Desarrollo,11.2,8,8,Me costó desconectarme y seguí respondiendo mensajes fuera de horario.,-0.488,Alto,1,False
+MET-00990,USR-030,2026-10-03,Dev,Desarrollo,8.3,15,5,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.227,Medio,0,False
+MET-01020,USR-030,2026-10-04,Dev,Desarrollo,8.1,9,3,"Día movido con algunos bloqueos, aunque pude resolver lo principal.",0.104,Medio,0,False
+MET-01050,USR-030,2026-10-05,Dev,Desarrollo,7.9,1,1,"Deploy exitoso y equipo coordinado, sin urgencias.",0.723,Bajo,0,False
+MET-01080,USR-030,2026-10-06,Dev,Desarrollo,7.6,12,6,Hubo cambios de prioridad durante el día y costó concentrarme.,0.096,Medio,0,False
+MET-01110,USR-030,2026-10-07,Dev,Desarrollo,11.1,11,7,La carga de trabajo fue elevada y terminé bastante agotado.,-0.31,Alto,1,False
+MET-01140,USR-030,2026-10-08,Dev,Desarrollo,6.5,8,3,Las tareas estuvieron organizadas y pude hacer pausas.,0.738,Bajo,0,False
+MET-01170,USR-030,2026-10-09,Dev,Desarrollo,12.4,13,10,"Guardia extensa, incidentes críticos y agotamiento muy fuerte.",-0.712,Burnout Inminente,1,False
+MET-01200,USR-030,2026-10-10,Dev,Desarrollo,8.8,3,3,"Tuve varias reuniones y algunos pendientes, pero pude organizarme.",0.365,Medio,0,False
